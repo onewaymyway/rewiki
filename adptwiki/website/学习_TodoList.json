@@ -295,15 +295,54 @@
     "Content": [
         {
             "title": "长期任务",
-            "child": []
+            "child": [
+                {
+                    "title": "维护wiki"
+                },
+                {
+                    "title": "做一个浏览器壳"
+                },
+                {
+                    "title": "做一个内容网站"
+                },
+                {
+                    "title": "做一个导航站"
+                },
+                {
+                    "title": "做一个任务分析的工具"
+                },
+                {
+                    "title": "做一个主动的网站"
+                },
+                {
+                    "title": "做一个互联网地图站"
+                }
+            ]
         },
         {
             "title": "进行中任务",
-            "child": []
+            "child": [
+                {
+                    "title": "量化交易研究"
+                },
+                {
+                    "title": "强化学习研究"
+                }
+            ]
         },
         {
             "title": "过期任务",
-            "child": []
+            "child": [
+                {
+                    "title": "学习Python服务器编程"
+                },
+                {
+                    "title": "chrome浏览器插件开发"
+                },
+                {
+                    "title": "连接JoinQuant研究的python库"
+                }
+            ]
         }
     ],
     "Info": {

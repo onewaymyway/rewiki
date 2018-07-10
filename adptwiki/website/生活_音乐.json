@@ -295,7 +295,35 @@
     "Content": [
         {
             "title": "歌",
-            "child": []
+            "child": [
+                {
+                    "title": "《困兽之斗》周杰伦"
+                },
+                {
+                    "title": "《活着》朴树"
+                },
+                {
+                    "title": "《曾经的你》许巍"
+                },
+                {
+                    "title": "《heal the world》Michael Jackson"
+                },
+                {
+                    "title": "《那女孩对我说》黄义达"
+                },
+                {
+                    "title": "《不够成熟》By2"
+                },
+                {
+                    "title": "《遇见》孙燕姿"
+                },
+                {
+                    "title": "《In the end》Linkin Park"
+                },
+                {
+                    "title": "《Right Here waiting》Richard Noel Marx"
+                }
+            ]
         }
     ],
     "Info": {

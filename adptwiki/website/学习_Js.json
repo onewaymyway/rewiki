@@ -602,6 +602,12 @@
                 {
                     "title": "shared-array-buffer",
                     "href": "http://2ality.com/2017/01/shared-array-buffer.html"
+                },
+                {
+                    "title": "chrome://inspect/#service-workers"
+                },
+                {
+                    "title": "chrome://serviceworker-internals/"
                 }
             ]
         },
@@ -868,7 +874,35 @@
         },
         {
             "title": "书",
-            "child": []
+            "child": [
+                {
+                    "title": "《Effective JavaScript》"
+                },
+                {
+                    "title": "《JavaScript 权威指南》"
+                },
+                {
+                    "title": "Apress.Beginning.HTML5.Games.with.CreateJS"
+                },
+                {
+                    "title": "Beginning WebGL for HTML5"
+                },
+                {
+                    "title": "Game Development with Three.js"
+                },
+                {
+                    "title": "Game Engine Architecture(游戏引擎架构)"
+                },
+                {
+                    "title": "Game.Physics.Engine.Development"
+                },
+                {
+                    "title": "WebGL Programming Guide"
+                },
+                {
+                    "title": "JS面向对象教程"
+                }
+            ]
         }
     ],
     "Info": {

@@ -366,7 +366,23 @@
         },
         {
             "title": "书",
-            "child": []
+            "child": [
+                {
+                    "title": "AMF3协议中文版"
+                },
+                {
+                    "title": "swf_file_format_spec_v10.pdf"
+                },
+                {
+                    "title": "flashplatform_optimizing_content"
+                },
+                {
+                    "title": "Away3D.3.6.Cookbook"
+                },
+                {
+                    "title": ""
+                }
+            ]
         }
     ],
     "Info": {

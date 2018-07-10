@@ -295,7 +295,11 @@
     "Content": [
         {
             "title": "Game",
-            "child": []
+            "child": [
+                {
+                    "title": "通过图片像素进行战斗"
+                }
+            ]
         }
     ],
     "Info": {

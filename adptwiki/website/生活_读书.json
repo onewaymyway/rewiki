@@ -295,7 +295,11 @@
     "Content": [
         {
             "title": "喜欢过的杂志",
-            "child": []
+            "child": [
+                {
+                    "title": "科幻世界"
+                }
+            ]
         }
     ],
     "Info": {

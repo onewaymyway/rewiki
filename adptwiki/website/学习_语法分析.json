@@ -337,7 +337,17 @@
         },
         {
             "title": "书",
-            "child": []
+            "child": [
+                {
+                    "title": "Language.Implementation.Patterns"
+                },
+                {
+                    "title": "Pragmatic.The Definitive ANTLR 4 Reference.2013"
+                },
+                {
+                    "title": "编译原理及实践"
+                }
+            ]
         }
     ],
     "Info": {
