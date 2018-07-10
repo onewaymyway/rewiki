@@ -292,7 +292,41 @@
             ]
         }
     ],
-    "Content": [],
+    "Content": [
+        {
+            "title": "导航",
+            "child": [
+                {
+                    "title": "particle2dx",
+                    "href": "http://www.effecthub.com/particle2dx"
+                },
+                {
+                    "title": "particledesigner",
+                    "href": "http://www.effecthub.com/t/particledesigner"
+                },
+                {
+                    "title": "blender",
+                    "href": "http://www.blender.org/"
+                },
+                {
+                    "title": "unity3d",
+                    "href": "http://unity3d.com/cn/"
+                },
+                {
+                    "title": "wex5",
+                    "href": "http://wex5.com/"
+                },
+                {
+                    "title": "tangide",
+                    "href": "http://www.tangide.com/"
+                },
+                {
+                    "title": "cocosCreator",
+                    "href": "http://www.cocos.com/creator/"
+                }
+            ]
+        }
+    ],
     "Info": {
         "title": "IDE",
         "group": "学习"

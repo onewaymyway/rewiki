@@ -294,6 +294,19 @@
     ],
     "Content": [
         {
+            "title": "导航",
+            "child": [
+                {
+                    "title": "网易公开课",
+                    "href": "http://open.163.com/ocw/#management"
+                },
+                {
+                    "title": "coursera",
+                    "href": "https://www.coursera.org/browse/business"
+                }
+            ]
+        },
+        {
             "title": "收藏",
             "child": [
                 {

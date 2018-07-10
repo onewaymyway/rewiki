@@ -294,6 +294,27 @@
     ],
     "Content": [
         {
+            "title": "导航",
+            "child": [
+                {
+                    "title": "360文档",
+                    "href": "http://open.chrome.360.cn/extension_dev/devtools.html"
+                },
+                {
+                    "title": "百度浏览器插件中心",
+                    "href": "https://chajian.baidu.com/2015/#home"
+                },
+                {
+                    "title": "chrome-extensions-examples",
+                    "href": "https://github.com/orbitbot/chrome-extensions-examples"
+                },
+                {
+                    "title": "WebRTC-Experiment",
+                    "href": "https://github.com/muaz-khan/WebRTC-Experiment"
+                }
+            ]
+        },
+        {
             "title": "快捷导航",
             "child": []
         },

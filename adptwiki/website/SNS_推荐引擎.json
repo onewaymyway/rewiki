@@ -294,6 +294,19 @@
     ],
     "Content": [
         {
+            "title": "引擎",
+            "child": [
+                {
+                    "title": "友荐",
+                    "href": "http://www.ujian.cc/"
+                },
+                {
+                    "title": "百度推荐",
+                    "href": "http://tuijian.baidu.com/rec-web/welcome/login"
+                }
+            ]
+        },
+        {
             "title": "开源库",
             "child": [
                 {

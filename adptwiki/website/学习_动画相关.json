@@ -294,6 +294,31 @@
     ],
     "Content": [
         {
+            "title": "导航",
+            "child": [
+                {
+                    "title": "dragonbones",
+                    "href": "http://dragonbones.github.io/"
+                },
+                {
+                    "title": "DragonBones快速入门指南",
+                    "href": "http://dragonbones.github.io/DBGettingStarted_V2.0_cn.html"
+                },
+                {
+                    "title": "Spine",
+                    "href": "http://zh.esotericsoftware.com/"
+                },
+                {
+                    "title": "Spine快速入门指南",
+                    "href": "http://zh.esotericsoftware.com/spine-quickstart"
+                },
+                {
+                    "title": "flump",
+                    "href": "https://github.com/tconkling/flump"
+                }
+            ]
+        },
+        {
             "title": "收藏",
             "child": [
                 {

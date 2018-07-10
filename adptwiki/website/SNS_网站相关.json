@@ -292,7 +292,29 @@
             ]
         }
     ],
-    "Content": [],
+    "Content": [
+        {
+            "title": "收藏",
+            "child": [
+                {
+                    "title": "Nginx搭建反向代理服务器过程详解",
+                    "href": "http://www.open-open.com/lib/view/open1417488526633.html"
+                },
+                {
+                    "title": "Nginx开发从入门到精通",
+                    "href": "http://tengine.taobao.org/book/"
+                },
+                {
+                    "title": "开源软件分类",
+                    "href": "https://www.oschina.net/project/tag/416/classifieds"
+                },
+                {
+                    "title": "文件被数字签名策略拒绝",
+                    "href": "http://www.cnblogs.com/walkingboy/archive/2008/04/27/WM6_SDK_Install_Digital_Signature.html"
+                }
+            ]
+        }
+    ],
     "Info": {
         "title": "网站相关",
         "group": "SNS"

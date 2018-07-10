@@ -292,7 +292,33 @@
             ]
         }
     ],
-    "Content": [],
+    "Content": [
+        {
+            "title": "导航",
+            "child": [
+                {
+                    "title": "QQ开放平台",
+                    "href": "http://open.qq.com/"
+                },
+                {
+                    "title": "微信开放平台",
+                    "href": "https://open.weixin.qq.com/"
+                },
+                {
+                    "title": "微博开放平台",
+                    "href": "http://open.weibo.com/"
+                },
+                {
+                    "title": "人人开放平台",
+                    "href": "http://dev.renren.com/"
+                },
+                {
+                    "title": "百度地图API",
+                    "href": "http://developer.baidu.com/map/"
+                }
+            ]
+        }
+    ],
     "Info": {
         "title": "开放平台们",
         "group": "学习"

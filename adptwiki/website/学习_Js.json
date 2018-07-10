@@ -294,6 +294,75 @@
     ],
     "Content": [
         {
+            "title": "导航",
+            "child": [
+                {
+                    "title": "MDN",
+                    "href": "https://developer.mozilla.org/en-US/docs/Web/Events/visibilitychange"
+                },
+                {
+                    "title": "MDN-WebAPI",
+                    "href": "https://developer.mozilla.org/en-US/docs/Web/API"
+                },
+                {
+                    "title": "Object",
+                    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object"
+                },
+                {
+                    "title": "html5test",
+                    "href": "http://html5test.com/"
+                },
+                {
+                    "title": "caniuse",
+                    "href": "http://caniuse.com/"
+                },
+                {
+                    "title": "w3school",
+                    "href": "http://www.w3school.com.cn/jsref/dom_obj_image.asp"
+                },
+                {
+                    "title": "读懂 ECMAScript 规格",
+                    "href": "http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html"
+                },
+                {
+                    "title": "msdn",
+                    "href": "https://msdn.microsoft.com/zh-cn/library/dd548687"
+                },
+                {
+                    "title": "ECMAScript 6 入门",
+                    "href": "http://es6.ruanyifeng.com/#docs/set-map"
+                },
+                {
+                    "title": "CSS, JavaScript 压缩, 美化, 加密, 解密",
+                    "href": "http://tool.css-js.com/"
+                },
+                {
+                    "title": "兼容测试",
+                    "href": "http://html5test.com/"
+                },
+                {
+                    "title": "x5.tencent",
+                    "href": "http://x5.tencent.com/"
+                },
+                {
+                    "title": "微信JS-SDK说明文档",
+                    "href": "https://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html"
+                },
+                {
+                    "title": "TBS开发调试利器——TBS Studio",
+                    "href": "https://x5.tencent.com/tbs/guide/debug/download.html"
+                },
+                {
+                    "title": "weapp-ide-crack",
+                    "href": "https://github.com/gavinkwoe/weapp-ide-crack"
+                },
+                {
+                    "title": "wxopen",
+                    "href": "https://mp.weixin.qq.com/debug/wxadoc/dev/"
+                }
+            ]
+        },
+        {
             "title": "js引擎",
             "child": [
                 {

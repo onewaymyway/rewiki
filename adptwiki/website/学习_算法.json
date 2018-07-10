@@ -294,6 +294,39 @@
     ],
     "Content": [
         {
+            "title": "收藏",
+            "child": [
+                {
+                    "title": "rectangle-bin-packing",
+                    "href": "http://clb.demon.fi/projects/more-rectangle-bin-packing"
+                },
+                {
+                    "title": "凸包Graham Scan算法实现",
+                    "href": "http://www.cnblogs.com/absolute8511/archive/2009/08/09/1649565.html"
+                },
+                {
+                    "title": "判断点在多边形内",
+                    "href": "http://www.cnblogs.com/langu/p/4033608.html"
+                },
+                {
+                    "title": "Separating Axis Theorem (SAT) Explanation",
+                    "href": "http://www.sevenson.com.au/actionscript/sat/"
+                },
+                {
+                    "title": "上帝算法",
+                    "href": "http://www.zhihu.com/question/28951564"
+                },
+                {
+                    "title": "斑马的条纹怎么形成的？图灵60年前已在研究",
+                    "href": "http://news.cnblogs.com/n/535162/"
+                },
+                {
+                    "title": "QuadtreeSprite",
+                    "href": "https://github.com/justpinegames/QuadtreeSprite-Extension"
+                }
+            ]
+        },
+        {
             "title": "大神",
             "child": [
                 {

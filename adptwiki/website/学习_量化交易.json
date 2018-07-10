@@ -294,6 +294,91 @@
     ],
     "Content": [
         {
+            "title": "导航",
+            "child": [
+                {
+                    "title": "joinquant",
+                    "href": "https://www.joinquant.com/community"
+                },
+                {
+                    "title": "uqer",
+                    "href": "https://uqer.io/community"
+                },
+                {
+                    "title": "ricequant",
+                    "href": "https://www.ricequant.com/"
+                },
+                {
+                    "title": "果仁",
+                    "href": "https://guorn.com/"
+                },
+                {
+                    "title": "pinggu",
+                    "href": "http://bbs.pinggu.org/forum-2166-1.html"
+                },
+                {
+                    "title": "pyalgotrade",
+                    "href": "http://gbeced.github.io/pyalgotrade/"
+                },
+                {
+                    "title": "tushareAPI",
+                    "href": "http://tushare.org/"
+                },
+                {
+                    "title": "iwencai",
+                    "href": "http://www.iwencai.com/regression/report"
+                },
+                {
+                    "title": "同花顺T策略",
+                    "href": "http://t.10jqka.com.cn/trace/"
+                },
+                {
+                    "title": "tradingreason",
+                    "href": "http://tradingreason.com/screener.html"
+                },
+                {
+                    "title": "Python-UIAutomation-for-Windows",
+                    "href": "https://github.com/yinkaisheng/Python-UIAutomation-for-Windows"
+                },
+                {
+                    "title": "分析实验室",
+                    "href": "https://onewaymyway.github.io/stocksite/StockView/bin/h5/index.html"
+                },
+                {
+                    "title": "分析实验室New",
+                    "href": "http://stock.orzooo.com/"
+                },
+                {
+                    "title": "投资易",
+                    "href": "https://touzi.sina.com.cn/public/"
+                },
+                {
+                    "title": "行情中心",
+                    "href": "http://vip.stock.finance.sina.com.cn/mkt/#etf_jz_fund"
+                },
+                {
+                    "title": "数据中心",
+                    "href": "http://vip.stock.finance.sina.com.cn/q/go.php/vIR_RatingNewest/index.phtml"
+                },
+                {
+                    "title": "数据中心eastmoney",
+                    "href": "http://data.eastmoney.com/tfpxx/"
+                },
+                {
+                    "title": "7*24小时全球实时财经新闻直播",
+                    "href": "http://live.sina.com.cn/zt/f/v/finance/globalnews1"
+                },
+                {
+                    "title": "上交所",
+                    "href": "http://www.sse.com.cn/"
+                },
+                {
+                    "title": "深交所",
+                    "href": "http://www.szse.cn/"
+                }
+            ]
+        },
+        {
             "title": "开源库",
             "child": [
                 {

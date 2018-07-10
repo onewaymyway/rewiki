@@ -294,6 +294,67 @@
     ],
     "Content": [
         {
+            "title": "导航",
+            "child": [
+                {
+                    "title": "freebuf",
+                    "href": "http://www.freebuf.com/"
+                },
+                {
+                    "title": "wooyun",
+                    "href": "http://www.wooyun.org/"
+                },
+                {
+                    "title": "看雪安全论坛",
+                    "href": "http://bbs.pediy.com/"
+                },
+                {
+                    "title": "91ri",
+                    "href": "https://www.91ri.org/"
+                },
+                {
+                    "title": "暗组",
+                    "href": "http://forum.cnsec.org/"
+                },
+                {
+                    "title": "安全脉搏",
+                    "href": "http://www.secpulse.com/"
+                },
+                {
+                    "title": "ZoomEye",
+                    "href": "https://www.zoomeye.org/"
+                },
+                {
+                    "title": "BASE64方式加密、解密",
+                    "href": "http://www1.tc711.com/tool/BASE64.htm"
+                },
+                {
+                    "title": "xmd5",
+                    "href": "http://www.xmd5.org/"
+                },
+                {
+                    "title": "kali",
+                    "href": "https://www.kali.org/"
+                },
+                {
+                    "title": "全国法院被执行人信息查询",
+                    "href": "http://zhixing.court.gov.cn/search/"
+                },
+                {
+                    "title": "QQ信息泄漏",
+                    "href": "https://qqgroup.insight-labs.org/"
+                },
+                {
+                    "title": "社工库",
+                    "href": "http://www.yixielou.com/"
+                },
+                {
+                    "title": "sysinternals",
+                    "href": "https://technet.microsoft.com/en-us/sysinternals/bb545021"
+                }
+            ]
+        },
+        {
             "title": "工具",
             "child": [
                 {

@@ -292,7 +292,49 @@
             ]
         }
     ],
-    "Content": [],
+    "Content": [
+        {
+            "title": "收藏",
+            "child": [
+                {
+                    "title": "Java开源Eclipse插件",
+                    "href": "http://www.open-open.com/04.htm"
+                },
+                {
+                    "title": "VJET",
+                    "href": "http://wiki.eclipse.org/VJET"
+                },
+                {
+                    "title": "JSDT",
+                    "href": "http://www.eclipse.org/webtools/jsdt/"
+                },
+                {
+                    "title": "远程调试",
+                    "href": "http://tid.tenpay.com/?p=6161/"
+                },
+                {
+                    "title": "真机远程调试",
+                    "href": "http://segmentfault.com/a/1190000002580360"
+                },
+                {
+                    "title": "Chrome 控制台不完全指南",
+                    "href": "http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html"
+                },
+                {
+                    "title": "14款优秀的JavaScript调试工具大盘点",
+                    "href": "http://www.admin10000.com/document/6145.html"
+                },
+                {
+                    "title": "chrome扩展开发文档",
+                    "href": "http://open.chrome.360.cn/extension_dev/devtools.html"
+                },
+                {
+                    "title": "uirecorder",
+                    "href": "https://github.com/alibaba/uirecorder/blob/master/README_zh-cn.md"
+                }
+            ]
+        }
+    ],
     "Info": {
         "title": "调试工具",
         "group": "学习"

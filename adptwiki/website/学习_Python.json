@@ -294,6 +294,63 @@
     ],
     "Content": [
         {
+            "title": "导航",
+            "child": [
+                {
+                    "title": "win32gui",
+                    "href": "http://docs.activestate.com/activepython/3.2/pywin32/win32gui.html"
+                },
+                {
+                    "title": "Python：渗透测试开源项目",
+                    "href": "http://www.cnblogs.com/hongfei/p/3874419.html"
+                },
+                {
+                    "title": "Python资源库",
+                    "href": "http://hao.jobbole.com/?catid=144"
+                },
+                {
+                    "title": "Python实践项目",
+                    "href": "http://python.jobbole.com/category/project/"
+                },
+                {
+                    "title": "Python 资源大全",
+                    "href": "http://python.jobbole.com/84464/"
+                },
+                {
+                    "title": "requests",
+                    "href": "http://www.python-requests.org/"
+                },
+                {
+                    "title": "setuptools",
+                    "href": "https://pypi.python.org/pypi/setuptools#windows"
+                },
+                {
+                    "title": "binarys",
+                    "href": "http://www.lfd.uci.edu/%7Egohlke/pythonlibs/#numpy"
+                },
+                {
+                    "title": "pypi",
+                    "href": "https://pypi.python.org/pypi/"
+                },
+                {
+                    "title": "tushare",
+                    "href": "http://tushare.org/"
+                },
+                {
+                    "title": "PyTricks",
+                    "href": "https://github.com/brennerm/PyTricks"
+                },
+                {
+                    "title": "Easy Python Decompiler",
+                    "href": "https://sourceforge.net/projects/easypythondecompiler/?source=typ_redirect"
+                },
+                {
+                    "title": "selenium",
+                    "href": "http://selenium-python-zh.readthedocs.io/en/latest/index.html"
+                }
+            ]
+        },
+        {
             "title": "安装包",
             "child": [
                 {

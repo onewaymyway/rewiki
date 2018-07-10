@@ -294,6 +294,19 @@
     ],
     "Content": [
         {
+            "title": "部署发布",
+            "child": [
+                {
+                    "title": "Jenkins",
+                    "href": "http://jenkins-ci.org/"
+                },
+                {
+                    "title": "10款免费且开源的项目管理工具",
+                    "href": "http://www.csdn.net/article/2013-09-13/2816926-free-project-management-tools"
+                }
+            ]
+        },
+        {
             "title": "版本管理",
             "child": [
                 {

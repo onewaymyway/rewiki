@@ -294,6 +294,35 @@
     ],
     "Content": [
         {
+            "title": "导航",
+            "child": [
+                {
+                    "title": "SWFWire",
+                    "href": "http://www.swfwire.com/decompiler"
+                },
+                {
+                    "title": "JPEXS",
+                    "href": "https://www.free-decompiler.com/flash/"
+                },
+                {
+                    "title": "Monster Debugger",
+                    "href": "http://www.monsterdebugger.com/"
+                },
+                {
+                    "title": "flashdevelop",
+                    "href": "https://github.com/fdorg/flashdevelop"
+                },
+                {
+                    "title": "help.adobe",
+                    "href": "http://help.adobe.com/zh_CN/FlashPlatform/reference/actionscript/3/flash/events/TouchEvent.html"
+                },
+                {
+                    "title": "as3gamegears",
+                    "href": "http://www.as3gamegears.com/"
+                }
+            ]
+        },
+        {
             "title": "引擎",
             "child": [
                 {
