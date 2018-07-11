@@ -27343,7 +27343,7 @@ var Laya=window.Laya=(function(window,document){
 			this.groupPanelContent.initByData(dataO["Content"]);
 		}
 
-		ReWikiView.basePath="https://onewaymyway.github.io/rewiki/website/";
+		ReWikiView.basePath="http://orzooo.com/website/";
 		return ReWikiView;
 	})(ReWikiUI)
 
