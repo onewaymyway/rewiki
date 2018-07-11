@@ -27223,10 +27223,9 @@ var Laya=window.Laya=(function(window,document){
 		}
 
 		__proto.tryOpenUrl=function(url){
-			if (url.indexOf("orzooo.com")>=0){
+			if (url.indexOf("@Page:")>=0){
 				var refer;
-				refer=Browser.window.decodeURI(url.split("?n=")[1]);
-				debugger;
+				refer=url.split("Page:")[1];
 				Notice.notify("LoadPage",[refer.split(".").join("_")+".json"]);
 				return;
 			}

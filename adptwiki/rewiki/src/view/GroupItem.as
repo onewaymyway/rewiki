@@ -36,11 +36,11 @@ package view
 		
 		private function tryOpenUrl(url:String):void
 		{
-			if (url.indexOf("orzooo.com") >= 0)
+			if (url.indexOf("@Page:") >= 0)
 			{
 				var refer:String;
-				refer = Browser.window.decodeURI(url.split("?n=")[1]);
-				debugger;
+				refer = url.split("Page:")[1];
+				
 				Notice.notify(ReWikiMsg.LoadPage, [refer.split(".").join("_")+".json"]);
 				return;
 			}
