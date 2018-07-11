@@ -7,89 +7,12 @@
     "nodeParent":-1,
     "label":"View",
     "isOpen":true,
-    "isDirectory":true,
+    "isDirectory":false,
     "isAniNode":true,
-    "hasChild":true,
+    "hasChild":false,
     "compId":1,
     "child":[
-        {
-            "x":15,
-            "type":"List",
-            "props":{"width":150,"var":"navList","top":5,"repeatX":1,"left":2,"height":390,"bottom":5},
-            "nodeParent":1,
-            "label":"List(navList)",
-            "isOpen":true,
-            "isDirectory":true,
-            "isAniNode":true,
-            "hasChild":true,
-            "compId":6,
-            "child":[
-                {
-                    "x":30,
-                    "type":"Box",
-                    "props":{"right":2,"name":"render","left":2},
-                    "nodeParent":6,
-                    "label":"Box(render)",
-                    "isOpen":true,
-                    "isDirectory":true,
-                    "isAniNode":false,
-                    "hasChild":true,
-                    "compId":3,
-                    "child":[
-                        {
-                            "x":45,
-                            "type":"Label",
-                            "props":{"y":0,"text":"label","styleSkin":"comp/label.png","right":0,"name":"txt","left":0,"height":19,"color":"#f1e4e4"},
-                            "nodeParent":3,
-                            "label":"Label(txt)",
-                            "isDirectory":false,
-                            "isAniNode":false,
-                            "hasChild":false,
-                            "compId":2,
-                            "child":[
-                                ]
-                        }]
-                }]
-        },
-        {
-            "x":15,
-            "type":"List",
-            "props":{"width":416,"var":"contentList","top":12,"right":5,"repeatX":1,"left":179,"height":383,"bottom":5},
-            "nodeParent":1,
-            "label":"List(contentList)",
-            "isOpen":true,
-            "isDirectory":true,
-            "isAniNode":true,
-            "hasChild":true,
-            "compId":7,
-            "child":[
-                {
-                    "x":30,
-                    "type":"Box",
-                    "props":{"right":2,"name":"render","left":2},
-                    "nodeParent":7,
-                    "label":"Box(render)",
-                    "isOpen":true,
-                    "isDirectory":true,
-                    "isAniNode":false,
-                    "hasChild":true,
-                    "compId":8,
-                    "child":[
-                        {
-                            "x":45,
-                            "type":"Label",
-                            "props":{"y":0,"text":"label","styleSkin":"comp/label.png","right":0,"name":"txt","left":0,"height":19,"color":"#f1e4e4"},
-                            "nodeParent":8,
-                            "label":"Label(txt)",
-                            "isDirectory":false,
-                            "isAniNode":false,
-                            "hasChild":false,
-                            "compId":9,
-                            "child":[
-                                ]
-                        }]
-                }]
-        }],
+        ],
     "animations":[
         {
             "nodes":[

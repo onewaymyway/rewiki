@@ -27,6 +27,25 @@ package view
 		{
 			debugger;
 			
+			
+			var groupPanel:GroupPanel;
+			groupPanel = new GroupPanel();
+			groupPanel.initByData(dataO["Nav"]);
+			groupPanel.top = 10;
+			groupPanel.bottom = 10;
+			groupPanel.width = 300;
+			
+			addChild(groupPanel);
+			
+			var groupPanel:GroupPanel;
+			groupPanel = new GroupPanel();
+			groupPanel.initByData(dataO["Content"]);
+			groupPanel.top = 10;
+			groupPanel.bottom = 10;
+			groupPanel.left = 350;
+			groupPanel.right = 10;
+			
+			addChild(groupPanel);
 		}
 		
 	}

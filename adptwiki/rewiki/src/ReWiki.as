@@ -19,7 +19,8 @@ package
 			var loads:Array;
 			loads = [];
 			//loads.push( { url:PathConfig.stockBasic, type:Loader.TEXT } );
-			loads.push({ url:"res/atlas/comp.json", type:Loader.ATLAS });
+			loads.push( { url:"res/atlas/comp.atlas", type:Loader.ATLAS } );
+			loads.push({ url:"res/atlas/view.atlas", type:Loader.ATLAS });
 			Laya.loader.load(loads, new Handler(this, start), null);
 			
 		}
