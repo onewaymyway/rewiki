@@ -16,12 +16,13 @@ package view
 		public function ReWikiView() 
 		{
 			initGroupPanel();
-			Notice.notify(ReWikiMsg.LoadPage, this, loadWikiPage);
+			Notice.listen(ReWikiMsg.LoadPage, this, loadWikiPage);
 			loadWikiPage("学习_Js.json");
 		}
-		public static var basePath:String="wiki/";
+		public static var basePath:String="http://orzooo.com/website/";
 		public function loadWikiPage(pagePath:String):void
 		{
+			debugger;
 			var path:String;
 			path = basePath + pagePath;
 			Laya.loader.load(path, new Handler(this, onPageDataLoaded), null, Loader.JSON);
