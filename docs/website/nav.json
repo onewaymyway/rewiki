@@ -20,10 +20,6 @@
                     "href": "@Page:生活.读书"
                 },
                 {
-                    "title": "游戏",
-                    "href": "@Page:生活.游戏"
-                },
-                {
                     "title": "音乐",
                     "href": "@Page:生活.音乐"
                 },
@@ -81,6 +77,10 @@
                 {
                     "title": "AR",
                     "href": "@Page:学习.AR"
+                },
+                {
+                    "title": "机器学习",
+                    "href": "@Page:学习.机器学习"
                 },
                 {
                     "title": "数据分析",

@@ -1,0 +1,34 @@
+{
+    "Content": [
+        {
+            "title": "导航",
+            "child": [
+                {
+                    "title": "机器学习随笔",
+                    "href": "https://www.cnblogs.com/pinard/category/894692.html"
+                },
+                {
+                    "title": "Machine Learning From Scratch",
+                    "href": "https://github.com/eriklindernoren/ML-From-Scratch"
+                }
+            ]
+        },
+        {
+            "title": "我翻译的库",
+            "child": [
+                {
+                    "title": "AS_ML",
+                    "href": "https://github.com/onewaymyway/AS_ML"
+                },
+                {
+                    "title": "AS_Synaptic",
+                    "href": "https://github.com/onewaymyway/AS_Synaptic"
+                }
+            ]
+        }
+    ],
+    "Info": {
+        "title": "数据分析",
+        "group": "学习"
+    }
+}
