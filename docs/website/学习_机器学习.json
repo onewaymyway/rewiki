@@ -10,6 +10,10 @@
                 {
                     "title": "Machine Learning From Scratch",
                     "href": "https://github.com/eriklindernoren/ML-From-Scratch"
+                },
+                {
+                    "title": "ML-in-Action-Code-and-Note",
+                    "href": "https://github.com/stonycat/ML-in-Action-Code-and-Note"
                 }
             ]
         },
