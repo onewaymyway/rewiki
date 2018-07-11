@@ -294,6 +294,29 @@
     ],
     "Content": [
         {
+            "title": "Content",
+            "child": [
+                {
+                    "title": "头脑风暴引擎"
+                },
+                {
+                    "title": "关系分析引擎"
+                },
+                {
+                    "title": "问题分析引擎"
+                },
+                {
+                    "title": "思维漫游"
+                },
+                {
+                    "title": "信息收集系统"
+                },
+                {
+                    "title": "自动营销系统"
+                }
+            ]
+        },
+        {
             "title": "Game",
             "child": [
                 {
