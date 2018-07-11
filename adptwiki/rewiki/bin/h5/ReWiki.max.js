@@ -27172,13 +27172,17 @@ var Laya=window.Laya=(function(window,document){
 		}
 
 		__proto.onDoubleClick=function(){
-			debugger;
 			if (this._dataO && this._dataO.href){
 				this.tryOpenUrl(this._dataO.href);
 			}
 		}
 
 		__proto.tryOpenUrl=function(url){
+			if (url.indexOf("orzooo.com")>=0){
+				var refer;
+				refer=Browser.window.decodeURI(url.split("?n=")[1]);
+				debugger;
+			}
 			WebTools.openUrl(url);
 		}
 
@@ -27254,7 +27258,10 @@ var Laya=window.Laya=(function(window,document){
 	//class view.ReWikiView extends ui.rewiki.ReWikiUI
 	var ReWikiView=(function(_super){
 		function ReWikiView(){
+			this.groupPanelContent=null;
+			this.groupPanelNav=null;
 			ReWikiView.__super.call(this);
+			this.initGroupPanel();
 			this.loadWikiPage("学习_Js.json");
 		}
 
@@ -27266,23 +27273,24 @@ var Laya=window.Laya=(function(window,document){
 			Laya.loader.load(path,new Handler(this,this.onPageDataLoaded),null,"json");
 		}
 
+		__proto.initGroupPanel=function(){
+			this.groupPanelNav=new GroupPanel();
+			this.groupPanelNav.top=10;
+			this.groupPanelNav.bottom=10;
+			this.groupPanelNav.width=300;
+			this.addChild(this.groupPanelNav);
+			this.groupPanelContent=new GroupPanel();
+			this.groupPanelContent.top=10;
+			this.groupPanelContent.bottom=10;
+			this.groupPanelContent.left=350;
+			this.groupPanelContent.right=10;
+			this.addChild(this.groupPanelContent);
+		}
+
 		__proto.onPageDataLoaded=function(dataO){
 			debugger;
-			var groupPanel;
-			groupPanel=new GroupPanel();
-			groupPanel.initByData(dataO["Nav"]);
-			groupPanel.top=10;
-			groupPanel.bottom=10;
-			groupPanel.width=300;
-			this.addChild(groupPanel);
-			var groupPanel;
-			groupPanel=new GroupPanel();
-			groupPanel.initByData(dataO["Content"]);
-			groupPanel.top=10;
-			groupPanel.bottom=10;
-			groupPanel.left=350;
-			groupPanel.right=10;
-			this.addChild(groupPanel);
+			this.groupPanelNav.initByData(dataO["Nav"]);
+			this.groupPanelContent.initByData(dataO["Content"]);
 		}
 
 		ReWikiView.basePath="wiki/";
