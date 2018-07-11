@@ -5,35 +5,35 @@
             "child": [
                 {
                     "title": "电影",
-                    "href": "http://www.orzooo.com/index.php?n=%e7%94%9f%e6%b4%bb.%e7%94%b5%e5%bd%b1"
+                    "href": "@Page:生活.电影"
                 },
                 {
                     "title": "追剧",
-                    "href": "http://www.orzooo.com/index.php?n=%e7%94%9f%e6%b4%bb.%e8%bf%bd%e5%89%a7"
+                    "href": "@Page:生活.追剧"
                 },
                 {
                     "title": "动漫",
-                    "href": "http://www.orzooo.com/index.php?n=%e7%94%9f%e6%b4%bb.%e5%8a%a8%e6%bc%ab"
+                    "href": "@Page:生活.动漫"
                 },
                 {
                     "title": "读书",
-                    "href": "http://www.orzooo.com/index.php?n=%e7%94%9f%e6%b4%bb.%e8%af%bb%e4%b9%a6"
+                    "href": "@Page:生活.读书"
                 },
                 {
                     "title": "游戏",
-                    "href": "http://www.orzooo.com/index.php?n=%e7%94%9f%e6%b4%bb.%e6%b8%b8%e6%88%8f"
+                    "href": "@Page:生活.游戏"
                 },
                 {
                     "title": "音乐",
-                    "href": "http://www.orzooo.com/index.php?n=%e7%94%9f%e6%b4%bb.%e9%9f%b3%e4%b9%90"
+                    "href": "@Page:生活.音乐"
                 },
                 {
                     "title": "心理社会星座",
-                    "href": "http://www.orzooo.com/index.php?n=%e7%94%9f%e6%b4%bb.%e5%bf%83%e7%90%86%e7%a4%be%e4%bc%9a%e6%98%9f%e5%ba%a7"
+                    "href": "@Page:生活.心理社会星座"
                 },
                 {
                     "title": "域名",
-                    "href": "http://www.orzooo.com/index.php?n=%e7%94%9f%e6%b4%bb.%e5%9f%9f%e5%90%8d"
+                    "href": "@Page:生活.域名"
                 }
             ]
         },
@@ -42,11 +42,11 @@
             "child": [
                 {
                     "title": "导航导航",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%b7%a5%e5%85%b7.%e5%af%bc%e8%88%aa%e5%af%bc%e8%88%aa"
+                    "href": "@Page:工具.导航导航"
                 },
                 {
                     "title": "Chrome",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%b7%a5%e5%85%b7.Chrome"
+                    "href": "@Page:工具.Chrome"
                 }
             ]
         },
@@ -55,7 +55,7 @@
             "child": [
                 {
                     "title": "Stock Lab",
-                    "href": "http://www.orzooo.com/index.php?n=Site.StockLab"
+                    "href": "@Page:Site.StockLab"
                 }
             ]
         },
@@ -64,67 +64,67 @@
             "child": [
                 {
                     "title": "语法分析",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.%e8%af%ad%e6%b3%95%e5%88%86%e6%9e%90"
+                    "href": "@Page:学习.语法分析"
                 },
                 {
                     "title": "python",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.Python"
+                    "href": "@Page:学习.Python"
                 },
                 {
                     "title": "as3",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.As3"
+                    "href": "@Page:学习.As3"
                 },
                 {
                     "title": "js",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.Js"
+                    "href": "@Page:学习.Js"
                 },
                 {
                     "title": "AR",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.AR"
+                    "href": "@Page:学习.AR"
                 },
                 {
                     "title": "数据分析",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90"
+                    "href": "@Page:学习.数据分析"
                 },
                 {
                     "title": "量化交易",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.%e9%87%8f%e5%8c%96%e4%ba%a4%e6%98%93"
+                    "href": "@Page:学习.量化交易"
                 },
                 {
                     "title": "调试工具",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.%e8%b0%83%e8%af%95%e5%b7%a5%e5%85%b7"
+                    "href": "@Page:学习.调试工具"
                 },
                 {
                     "title": "IDE",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.IDE"
+                    "href": "@Page:学习.IDE"
                 },
                 {
                     "title": "算法",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.%e7%ae%97%e6%b3%95"
+                    "href": "@Page:学习.算法"
                 },
                 {
                     "title": "开放平台们",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.%e5%bc%80%e6%94%be%e5%b9%b3%e5%8f%b0%e4%bb%ac"
+                    "href": "@Page:学习.开放平台们"
                 },
                 {
                     "title": "项目管理工具",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.%e9%a1%b9%e7%9b%ae%e7%ae%a1%e7%90%86%e5%b7%a5%e5%85%b7"
+                    "href": "@Page:学习.项目管理工具"
                 },
                 {
                     "title": "安全相关",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.%e5%ae%89%e5%85%a8%e7%9b%b8%e5%85%b3"
+                    "href": "@Page:学习.安全相关"
                 },
                 {
                     "title": "动画相关",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.%e5%8a%a8%e7%94%bb%e7%9b%b8%e5%85%b3"
+                    "href": "@Page:学习.动画相关"
                 },
                 {
                     "title": "公开课forDear",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.%e5%85%ac%e5%bc%80%e8%af%beforDear"
+                    "href": "@Page:学习.公开课forDear"
                 },
                 {
                     "title": "产品&运营",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.%e4%ba%a7%e5%93%81Amp%e8%bf%90%e8%90%a5"
+                    "href": "@Page:学习.产品Amp运营"
                 }
             ]
         },
@@ -133,11 +133,11 @@
             "child": [
                 {
                     "title": "推荐引擎",
-                    "href": "http://www.orzooo.com/index.php?n=SNS.%e6%8e%a8%e8%8d%90%e5%bc%95%e6%93%8e"
+                    "href": "@Page:SNS.推荐引擎"
                 },
                 {
                     "title": "网站相关",
-                    "href": "http://www.orzooo.com/index.php?n=SNS.%e7%bd%91%e7%ab%99%e7%9b%b8%e5%85%b3"
+                    "href": "@Page:SNS.网站相关"
                 }
             ]
         },
@@ -146,11 +146,11 @@
             "child": [
                 {
                     "title": "todoList",
-                    "href": "http://www.orzooo.com/index.php?n=%e5%ad%a6%e4%b9%a0.TodoList"
+                    "href": "@Page:学习.TodoList"
                 },
                 {
                     "title": "ideas",
-                    "href": "http://www.orzooo.com/index.php?n=Other.Ideas"
+                    "href": "@Page:Other.Ideas"
                 }
             ]
         },
@@ -283,11 +283,11 @@
                 },
                 {
                     "title": "HomePage",
-                    "href": "http://www.orzooo.com/index.php?n=Main.HomePage"
+                    "href": "@Page:Main.HomePage"
                 },
                 {
                     "title": "WikiSandbox",
-                    "href": "http://www.orzooo.com/index.php?n=Main.WikiSandbox"
+                    "href": "@Page:Main.WikiSandbox"
                 }
             ]
         }
