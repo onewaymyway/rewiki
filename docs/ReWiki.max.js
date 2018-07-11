@@ -27310,13 +27310,13 @@ var Laya=window.Laya=(function(window,document){
 			ReWikiView.__super.call(this);
 			this.initGroupPanel();
 			Notice.listen("LoadPage",this,this.loadWikiPage);
+			Laya.loader.load(ReWikiView.basePath+"nav.json",new Handler(this,this.onNavDataLoaded),null,"json");
 			this.loadWikiPage("学习_Js.json");
 		}
 
 		__class(ReWikiView,'view.ReWikiView',_super);
 		var __proto=ReWikiView.prototype;
 		__proto.loadWikiPage=function(pagePath){
-			debugger;
 			var path;
 			path=ReWikiView.basePath+pagePath;
 			Laya.loader.load(path,new Handler(this,this.onPageDataLoaded),null,"json");
@@ -27336,10 +27336,13 @@ var Laya=window.Laya=(function(window,document){
 			this.addChild(this.groupPanelContent);
 		}
 
+		__proto.onNavDataLoaded=function(dataO){
+			if (!dataO)return;
+			this.groupPanelNav.initByData(dataO["Nav"]);
+		}
+
 		__proto.onPageDataLoaded=function(dataO){
 			if (!dataO)return;
-			debugger;
-			this.groupPanelNav.initByData(dataO["Nav"]);
 			this.groupPanelContent.initByData(dataO["Content"]);
 		}
 

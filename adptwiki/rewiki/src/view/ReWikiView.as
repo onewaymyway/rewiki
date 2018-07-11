@@ -17,12 +17,12 @@ package view
 		{
 			initGroupPanel();
 			Notice.listen(ReWikiMsg.LoadPage, this, loadWikiPage);
+			Laya.loader.load(basePath+"nav.json", new Handler(this, onNavDataLoaded), null, Loader.JSON);
 			loadWikiPage("学习_Js.json");
 		}
 		public static var basePath:String="http://orzooo.com/website/";
 		public function loadWikiPage(pagePath:String):void
 		{
-			debugger;
 			var path:String;
 			path = basePath + pagePath;
 			Laya.loader.load(path, new Handler(this, onPageDataLoaded), null, Loader.JSON);
@@ -49,11 +49,14 @@ package view
 			
 			addChild(groupPanelContent);
 		}
-		private function onPageDataLoaded(dataO:Object):void
+		private function onNavDataLoaded(dataO:Object):void
 		{
 			if (!dataO) return;
-			debugger;
 			groupPanelNav.initByData(dataO["Nav"]);
+		}
+		private function onPageDataLoaded(dataO:Object):void
+		{
+			if (!dataO) return;	
 			groupPanelContent.initByData(dataO["Content"]);
 	
 		}
