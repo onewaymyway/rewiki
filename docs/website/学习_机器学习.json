@@ -22,6 +22,19 @@
             ]
         },
         {
+            "title": "算法相关",
+            "child": [
+                {
+                    "title": "奇异值分解(SVD)原理详解",
+                    "href": "https://blog.csdn.net/xiaocong1990/article/details/54909126/"
+                },
+                {
+                    "title": "奇异值分解(SVD)原理详解及推导",
+                    "href": "https://blog.csdn.net/zhongkejingwang/article/details/43053513c"
+                }
+            ]
+        },
+        {
             "title": "我翻译的库",
             "child": [
                 {
