@@ -27304,8 +27304,10 @@ var Laya=window.Laya=(function(window,document){
 	//class view.ReWikiView extends ui.rewiki.ReWikiUI
 	var ReWikiView=(function(_super){
 		function ReWikiView(){
+			this.editBtn=null;
 			this.groupPanelContent=null;
 			this.groupPanelNav=null;
+			this._curUrl=null;
 			ReWikiView.__super.call(this);
 			this.initGroupPanel();
 			Notice.listen("LoadPage",this,this.loadWikiPage);
@@ -27316,6 +27318,7 @@ var Laya=window.Laya=(function(window,document){
 		__class(ReWikiView,'view.ReWikiView',_super);
 		var __proto=ReWikiView.prototype;
 		__proto.loadWikiPage=function(pagePath){
+			this._curUrl=pagePath;
 			var path;
 			path=ReWikiView.basePath+pagePath;
 			Laya.loader.load(path,new Handler(this,this.onPageDataLoaded),null,"json");
@@ -27333,6 +27336,20 @@ var Laya=window.Laya=(function(window,document){
 			this.groupPanelContent.left=350;
 			this.groupPanelContent.right=10;
 			this.addChild(this.groupPanelContent);
+			this.editBtn=new Button();
+			this.editBtn.skin="comp/button.png";
+			this.editBtn.y=10;
+			this.editBtn.right=25;
+			this.editBtn.label="Edit";
+			this.editBtn.labelColors="#ffffff";
+			this.addChild(this.editBtn);
+			this.editBtn.on("click",this,this.onEditBtnClick);
+		}
+
+		__proto.onEditBtnClick=function(){
+			if (this._curUrl){
+				WebTools.openUrl(ReWikiView.baseEditPath+this._curUrl);
+			}
 		}
 
 		__proto.onNavDataLoaded=function(dataO){
@@ -27346,11 +27363,12 @@ var Laya=window.Laya=(function(window,document){
 		}
 
 		ReWikiView.basePath="http://orzooo.com/website/";
+		ReWikiView.baseEditPath="https://github.com/onewaymyway/rewiki/blob/master/docs/website/";
 		return ReWikiView;
 	})(ReWikiUI)
 
 
-	Laya.__init([LoaderManager,EventDispatcher,Render,View,Timer,GraphicAnimation,LocalStorage,Browser]);
+	Laya.__init([EventDispatcher,LoaderManager,Render,View,Timer,GraphicAnimation,LocalStorage,Browser]);
 	new ReWiki();
 
 })(window,document,Laya);
