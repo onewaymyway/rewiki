@@ -290,8 +290,8 @@
                     "href": "@Page:Main.HomePage"
                 },
                 {
-                    "title": "WikiSandbox",
-                    "href": "@Page:Main.WikiSandbox"
+                    "title": "Edit Nav",
+                    "href": "https://github.com/onewaymyway/rewiki/blob/master/docs/website/nav.json"
                 }
             ]
         }
