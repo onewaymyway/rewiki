@@ -22,6 +22,10 @@
                 {
                     "title": "paperswithcode",
                     "href": "https://paperswithcode.com/greatest"
+                },
+                {
+                    "title": "deeplearningbook-chinese",
+                    "href": "https://github.com/exacity/deeplearningbook-chinese"
                 }
             ]
         },
