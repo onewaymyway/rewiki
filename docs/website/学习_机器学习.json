@@ -26,6 +26,10 @@
                 {
                     "title": "deeplearningbook-chinese",
                     "href": "https://github.com/exacity/deeplearningbook-chinese"
+                },
+                {
+                    "title": "SMG",
+                    "href": "https://github.com/jiaxiaogang/SMG"
                 }
             ]
         },
