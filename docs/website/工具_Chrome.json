@@ -31,6 +31,9 @@
                 {
                     "title": "chrome.webRequest",
                     "href": "https://chajian.baidu.com/developer/extensions/webRequest.html"
+                },
+                {
+                    "title": "chrome://net-internals/#dns"
                 }
             ]
         }
