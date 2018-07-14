@@ -27214,6 +27214,11 @@ var Laya=window.Laya=(function(window,document){
 		__proto.initByData=function(dataO){
 			this.label.text=dataO.title;
 			this._dataO=dataO;
+			if (this._dataO && this._dataO.href){
+				this.label.underline=true;
+				}else{
+				this.label.underline=false;
+			}
 		}
 
 		__proto.onDoubleClick=function(){

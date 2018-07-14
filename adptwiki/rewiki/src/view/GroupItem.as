@@ -23,7 +23,15 @@ package view
 		{
 			label.text = dataO.title;
 			this._dataO = dataO;
+			if (_dataO && _dataO.href)
+			{
+				label.underline = true;
+			}else
+			{
+				label.underline = false;
+			}
 		}
+		
 		
 		private function onDoubleClick():void
 		{
