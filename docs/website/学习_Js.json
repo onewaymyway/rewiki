@@ -548,6 +548,9 @@
                 {
                     "title": "Web Audio API",
                     "href": "http://webaudioapi.com/"
+                },
+                {
+                    "title": "兼容格式：44100Hz,96kbps"
                 }
             ]
         },
