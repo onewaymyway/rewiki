@@ -60,6 +60,10 @@
                     "href": "https://developers.weixin.qq.com/minigame/dev/"
                 },
                 {
+                    "title": "玩一玩文档",
+                    "href": "http://hudong.qq.com/docs/engine/"
+                },
+                {
                     "title": "TBS开发调试利器——TBS Studio",
                     "href": "https://x5.tencent.com/tbs/guide/debug/download.html"
                 },
