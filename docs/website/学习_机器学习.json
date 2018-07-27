@@ -71,6 +71,10 @@
                 {
                     "title": "如何评价周志华教授新提出的 Deep Forest 模型",
                     "href": "https://www.zhihu.com/question/56474891"
+                },
+                {
+                    "title": "gcForest",
+                    "href": "https://github.com/kingfengji/gcForest"
                 }
             ]
         },
