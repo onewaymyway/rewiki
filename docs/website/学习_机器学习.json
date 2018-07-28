@@ -75,6 +75,10 @@
                 {
                     "title": "gcForest",
                     "href": "https://github.com/kingfengji/gcForest"
+                },
+                {
+                    "title": "Facebook渐变神经网络: 通过任意指定属性，操纵生成图像",
+                    "href": "https://github.com/facebookresearch/FaderNetworks"
                 }
             ]
         },
