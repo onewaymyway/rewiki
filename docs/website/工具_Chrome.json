@@ -22,6 +22,10 @@
                 {
                     "title": "devtools-protocol",
                     "href": "https://chromedevtools.github.io/devtools-protocol/tot/Accessibility"
+                },
+                {
+                    "title": "awesome-chrome-devtools",
+                    "href": "https://github.com/ChromeDevTools/awesome-chrome-devtools"
                 }
             ]
         },
