@@ -26,6 +26,10 @@
                 {
                     "title": "awesome-chrome-devtools",
                     "href": "https://github.com/ChromeDevTools/awesome-chrome-devtools"
+                },
+                {
+                    "title": "http://localhost:9222/json",
+                    "href": "http://localhost:9222/json"
                 }
             ]
         },
