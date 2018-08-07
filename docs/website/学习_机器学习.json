@@ -34,6 +34,10 @@
                 {
                     "title": "SMG",
                     "href": "https://github.com/jiaxiaogang/SMG"
+                },
+                {
+                    "title": "tensorflow.js",
+                    "href": "https://js.tensorflow.org/"
                 }
             ]
         },
