@@ -38,6 +38,10 @@
                 {
                     "title": "tensorflow.js",
                     "href": "https://js.tensorflow.org/"
+                },
+                {
+                    "title": "EffectiveTensorflow",
+                    "href": "https://github.com/vahidk/EffectiveTensorflow"
                 }
             ]
         },
