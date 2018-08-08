@@ -42,6 +42,10 @@
                 {
                     "title": "EffectiveTensorflow",
                     "href": "https://github.com/vahidk/EffectiveTensorflow"
+                },
+                {
+                    "title": "face-api.js",
+                    "href": "https://github.com/justadudewhohacks/face-api.js"
                 }
             ]
         },
