@@ -40,6 +40,10 @@
                     "href": "https://js.tensorflow.org/"
                 },
                 {
+                    "title": "TensorFlow-Book",
+                    "href": "https://github.com/BinRoot/TensorFlow-Book"
+                },
+                {
                     "title": "EffectiveTensorflow",
                     "href": "https://github.com/vahidk/EffectiveTensorflow"
                 },
