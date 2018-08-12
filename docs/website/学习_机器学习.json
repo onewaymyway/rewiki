@@ -58,6 +58,10 @@
                 {
                     "title": "videoavatars",
                     "href": "https://github.com/thmoa/videoavatars"
+                },
+                {
+                    "title": "web-sfm",
+                    "href": "https://github.com/ptx-pluto/web-sfm"
                 }
             ]
         },
