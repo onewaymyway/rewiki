@@ -50,10 +50,14 @@
                 {
                     "title": "face-api.js",
                     "href": "https://github.com/justadudewhohacks/face-api.js"
-                }},
+                },
                 {
                     "title": "vrn",
                     "href": "https://github.com/AaronJackson/vrn"
+                },
+                {
+                    "title": "videoavatars",
+                    "href": "https://github.com/thmoa/videoavatars"
                 }
             ]
         },
