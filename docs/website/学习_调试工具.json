@@ -40,6 +40,14 @@
                     "href": "https://github.com/alibaba/uirecorder/blob/master/README_zh-cn.md"
                 }
             ]
+        },
+        {
+            "title": "todoList",
+            "child": [
+                {
+                    "title": "基于chrome debug protocal 的调试工具"
+                }
+            ]
         }
     ],
     "Info": {
