@@ -50,7 +50,12 @@
                 {
                     "title": "EffectiveTensorflow",
                     "href": "https://github.com/vahidk/EffectiveTensorflow"
-                },
+                }
+            ]
+        },
+        {
+            "title": "有意思的库",
+            "child": [
                 {
                     "title": "face-api.js",
                     "href": "https://github.com/justadudewhohacks/face-api.js"
@@ -66,6 +71,10 @@
                 {
                     "title": "web-sfm",
                     "href": "https://github.com/ptx-pluto/web-sfm"
+                },
+                {
+                    "title": "dancenet",
+                    "href": "https://github.com/jsn5/dancenet"
                 }
             ]
         },
