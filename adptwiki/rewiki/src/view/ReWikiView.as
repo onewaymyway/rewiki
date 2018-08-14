@@ -16,12 +16,19 @@ package view
 	public class ReWikiView extends ReWikiUI 
 	{
 		public var editBtn:Button;
+		public var freshBtn:Button;
+		public var curVersion:Number;
 		public function ReWikiView() 
 		{
 			initGroupPanel();
 			Notice.listen(ReWikiMsg.LoadPage, this, loadWikiPage);
 			Laya.loader.load(basePath+"nav.json", new Handler(this, onNavDataLoaded), null, Loader.JSON);
+			changeVersion();
 			loadWikiPage("学习_Js.json");
+		}
+		private function changeVersion():void
+		{
+			curVersion = Math.random();
 		}
 		public static var basePath:String = "http://orzooo.com/website/";
 		public static var baseEditPath:String = "https://github.com/onewaymyway/rewiki/blob/master/docs/website/";
@@ -29,7 +36,7 @@ package view
 		{
 			_curUrl = pagePath;
 			var path:String;
-			path = basePath + pagePath;
+			path = basePath + pagePath+"?v="+curVersion;
 			Laya.loader.load(path, new Handler(this, onPageDataLoaded), null, Loader.JSON);
 		}
 		public var groupPanelContent:GroupPanel;
@@ -62,6 +69,21 @@ package view
 			editBtn.labelColors = "#ffffff";
 			addChild(editBtn);
 			editBtn.on(Event.CLICK, this, onEditBtnClick);
+			
+			freshBtn = new Button();
+			freshBtn.skin = "view/refresh2.png";
+			freshBtn.y = 10;
+			freshBtn.scale(0.5, 0.5);
+			freshBtn.right = editBtn.width+30;
+			addChild(freshBtn);
+			freshBtn.on(Event.CLICK, this, onFreshBtnClick);
+			
+		}
+		
+		private function onFreshBtnClick():void
+		{
+			changeVersion();
+			loadWikiPage(_curUrl);
 		}
 		
 		private var _curUrl:String;
