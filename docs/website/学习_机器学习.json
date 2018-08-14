@@ -136,6 +136,10 @@
                 {
                     "title": "Facebook渐变神经网络: 通过任意指定属性，操纵生成图像",
                     "href": "https://github.com/facebookresearch/FaderNetworks"
+                },
+                {
+                    "title": "怎样让机器学会推理？伯克利AI研究所一文详解神经模块网络",
+                    "href": "https://zhuanlan.zhihu.com/p/27647598"
                 }
             ]
         },
