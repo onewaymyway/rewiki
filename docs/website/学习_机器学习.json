@@ -20,6 +20,10 @@
                     "href": "https://deepmind.com/blog/"
                 },
                 {
+                    "title": "arxiv.org",
+                    "href": "https://arxiv.org/list/cs/recent"
+                },
+                {
                     "title": "Machine Learning From Scratch",
                     "href": "https://github.com/eriklindernoren/ML-From-Scratch"
                 },
