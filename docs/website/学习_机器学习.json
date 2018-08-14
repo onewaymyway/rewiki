@@ -79,6 +79,10 @@
                 {
                     "title": "dancenet",
                     "href": "https://github.com/jsn5/dancenet"
+                },
+                {
+                    "title": "DensePose",
+                    "href": "https://github.com/facebookresearch/DensePose"
                 }
             ]
         },
