@@ -83,6 +83,10 @@
                 {
                     "title": "DensePose",
                     "href": "https://github.com/facebookresearch/DensePose"
+                },
+                {
+                    "title": "dnc",
+                    "href": "https://github.com/deepmind/dnc"
                 }
             ]
         },
