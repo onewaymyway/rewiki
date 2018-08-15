@@ -87,6 +87,10 @@
                 {
                     "title": "dnc",
                     "href": "https://github.com/deepmind/dnc"
+                },
+                {
+                    "title": "Image-to-Image Demo",
+                    "href": "https://affinelayer.com/pixsrv/index.html"
                 }
             ]
         },
