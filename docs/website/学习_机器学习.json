@@ -58,6 +58,10 @@
                 {
                     "title": "Deep-Learning-21-Examples",
                     "href": "https://github.com/hzy46/Deep-Learning-21-Examples"
+                },
+                {
+                    "title": "tensorflow_models",
+                    "href": "https://github.com/tensorflow/models"
                 }
             ]
         },
