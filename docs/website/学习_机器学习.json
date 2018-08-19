@@ -62,6 +62,10 @@
                 {
                     "title": "tensorflow_models",
                     "href": "https://github.com/tensorflow/models"
+                },
+                {
+                    "title": "reinforcement-learning",
+                    "href": "https://github.com/dennybritz/reinforcement-learning"
                 }
             ]
         },
