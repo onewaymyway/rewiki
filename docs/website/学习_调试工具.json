@@ -40,6 +40,10 @@
                     "href": "https://chromedevtools.github.io/devtools-protocol/"
                 },
                 {
+                    "title": "devtools-protocol-nodejs",
+                    "href": "https://github.com/cyrus-and/chrome-remote-interface"
+                },
+                {
                     "title": "uirecorder",
                     "href": "https://github.com/alibaba/uirecorder/blob/master/README_zh-cn.md"
                 }
