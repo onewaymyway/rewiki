@@ -36,6 +36,10 @@
                     "href": "http://open.chrome.360.cn/extension_dev/devtools.html"
                 },
                 {
+                    "title": "devtools-protocol",
+                    "href": "https://chromedevtools.github.io/devtools-protocol/"
+                },
+                {
                     "title": "uirecorder",
                     "href": "https://github.com/alibaba/uirecorder/blob/master/README_zh-cn.md"
                 }
