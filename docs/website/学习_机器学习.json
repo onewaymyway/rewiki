@@ -176,6 +176,10 @@
                 {
                     "title": "鸡生蛋与蛋生鸡，纵览神经架构搜索方法",
                     "href": "https://zhuanlan.zhihu.com/p/42469419"
+                },
+                {
+                    "title": "深入理解Batch Normalization批标准化",
+                    "href": "https://www.cnblogs.com/guoyaohua/p/8724433.html"
                 }
             ]
         },
