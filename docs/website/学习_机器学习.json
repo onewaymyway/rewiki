@@ -66,6 +66,10 @@
                 {
                     "title": "reinforcement-learning",
                     "href": "https://github.com/dennybritz/reinforcement-learning"
+                },
+                {
+                    "title": "TensorflowAS",
+                    "href": "https://github.com/onewaymyway/TensorflowAS"
                 }
             ]
         },
