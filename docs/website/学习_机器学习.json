@@ -64,6 +64,10 @@
                     "href": "https://github.com/tensorflow/models"
                 },
                 {
+                    "title": "tfjs-examples",
+                    "href": "https://github.com/tensorflow/tfjs-examples"
+                },
+                {
                     "title": "reinforcement-learning",
                     "href": "https://github.com/dennybritz/reinforcement-learning"
                 },
