@@ -74,6 +74,10 @@
                 {
                     "title": "TensorflowAS",
                     "href": "https://github.com/onewaymyway/TensorflowAS"
+                },
+                {
+                    "title": "googlecreativelab",
+                    "href": "https://github.com/googlecreativelab"
                 }
             ]
         },
@@ -111,6 +115,10 @@
                 {
                     "title": "Image-to-Image Demo",
                     "href": "https://affinelayer.com/pixsrv/index.html"
+                },
+                {
+                    "title": "quickdraw-dataset",
+                    "href": "https://github.com/googlecreativelab/quickdraw-dataset"
                 }
             ]
         },
