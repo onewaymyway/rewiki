@@ -89,6 +89,10 @@
                     "href": "https://github.com/justadudewhohacks/face-api.js"
                 },
                 {
+                    "title": "Mask_RCNN",
+                    "href": "https://github.com/matterport/Mask_RCNN"
+                },
+                {
                     "title": "vrn",
                     "href": "https://github.com/AaronJackson/vrn"
                 },
@@ -217,6 +221,10 @@
                 {
                     "title": "深入理解Batch Normalization批标准化",
                     "href": "https://www.cnblogs.com/guoyaohua/p/8724433.html"
+                },
+                {
+                    "title": "深度学习在3D重建上的应用",
+                    "href": "https://zhuanlan.zhihu.com/p/30445504"
                 }
             ]
         },
