@@ -123,6 +123,27 @@
             ]
         },
         {
+            "title": "3d 重建",
+            "child": [
+                {
+                    "title": "Awesome 3D reconstruction list",
+                    "href": "https://github.com/openMVG/awesome_3DReconstruction_list"
+                },
+                {
+                    "title": "3D-R2N2",
+                    "href": "https://github.com/chrischoy/3D-R2N2"
+                },
+                {
+                    "title": "PRNet",
+                    "href": "https://github.com/YadiraF/PRNet"
+                },
+                {
+                    "title": "Improved Adversarial Systems for 3D Object Generation and Reconstruction",
+                    "href": "https://github.com/EdwardSmith1884/3D-IWGAN"
+                }
+            ]
+        },
+        {
             "title": "算法相关",
             "child": [
                 {
