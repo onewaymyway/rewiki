@@ -225,6 +225,10 @@
                 {
                     "title": "深度学习在3D重建上的应用",
                     "href": "https://zhuanlan.zhihu.com/p/30445504"
+                },
+                {
+                    "title": "对涂鸦进行分类的循环神经网络",
+                    "href": "https://tensorflow.juejin.im/tutorials/recurrent_quickdraw.html"
                 }
             ]
         },
