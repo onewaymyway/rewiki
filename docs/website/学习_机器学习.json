@@ -229,6 +229,10 @@
                 {
                     "title": "对涂鸦进行分类的循环神经网络",
                     "href": "https://tensorflow.juejin.im/tutorials/recurrent_quickdraw.html"
+                },
+                {
+                    "title": "YOLO算法的原理与实现",
+                    "href": "https://cloud.tencent.com/developer/article/1052865"
                 }
             ]
         },
