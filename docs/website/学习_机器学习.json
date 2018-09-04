@@ -241,6 +241,10 @@
                 {
                     "title": "一文读懂什么是变分自编码器",
                     "href": "https://cloud.tencent.com/developer/article/1096650"
+                },
+                {
+                    "title": "变分自编码器VAE：原来是这么一回事",
+                    "href": "https://zhuanlan.zhihu.com/p/34998569"
                 }
             ]
         },
