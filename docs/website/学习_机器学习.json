@@ -245,6 +245,10 @@
                 {
                     "title": "变分自编码器VAE：原来是这么一回事",
                     "href": "https://zhuanlan.zhihu.com/p/34998569"
+                },
+                {
+                    "title": "LSTM原理及实现",
+                    "href": "https://blog.csdn.net/gzj_1101/article/details/79376798"
                 }
             ]
         },
