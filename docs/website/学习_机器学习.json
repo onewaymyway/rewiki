@@ -253,6 +253,15 @@
             ]
         },
         {
+            "title": "业界动态",
+            "child": [
+                {
+                    "title": "MIT非视线成像“透视相机”：隔墙观物、影中窥人！",
+                    "href": "https://zhuanlan.zhihu.com/p/43849897"
+                }
+            ]
+        },
+        {
             "title": "我翻译的库",
             "child": [
                 {
