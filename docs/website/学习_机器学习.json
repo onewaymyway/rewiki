@@ -123,6 +123,10 @@
                 {
                     "title": "quickdraw-dataset",
                     "href": "https://github.com/googlecreativelab/quickdraw-dataset"
+                },
+                {
+                    "title": "tf-gqn",
+                    "href": "https://github.com/ogroth/tf-gqn"
                 }
             ]
         },
