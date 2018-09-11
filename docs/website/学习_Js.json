@@ -172,6 +172,10 @@
                 {
                     "title": "PhysicsJS",
                     "href": "http://wellcaffeinated.net/PhysicsJS/examples/"
+                },
+                {
+                    "title": "box2d.ts",
+                    "href": "https://github.com/flyover/box2d.ts"
                 }
             ]
         },
