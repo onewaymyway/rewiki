@@ -78,6 +78,10 @@
                 {
                     "title": "googlecreativelab",
                     "href": "https://github.com/googlecreativelab"
+                },
+                {
+                    "title": "PaintsChainer",
+                    "href": "https://github.com/pfnet/PaintsChainer"
                 }
             ]
         },
