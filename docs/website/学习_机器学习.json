@@ -86,6 +86,10 @@
                 {
                     "title": "ganlab",
                     "href": "https://poloclub.github.io/ganlab/"
+                },
+                {
+                    "title": "really-awesome-gan",
+                    "href": "https://github.com/nightrome/really-awesome-gan"
                 }
             ]
         },
