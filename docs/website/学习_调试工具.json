@@ -44,6 +44,10 @@
                     "href": "https://github.com/cyrus-and/chrome-remote-interface"
                 },
                 {
+                    "title": "debugger-protocol-viewer",
+                    "href": "https://github.com/ChromeDevTools/debugger-protocol-viewer"
+                },
+                {
                     "title": "awesome-chrome-devtools",
                     "href": "https://github.com/ChromeDevTools/awesome-chrome-devtools"
                 },
