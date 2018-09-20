@@ -60,6 +60,17 @@
                     "title": "基于chrome debug protocal 的调试工具"
                 }
             ]
+        },
+        {
+            "title": "Note",
+            "child": [
+                {
+                    "title": "chrome.exe --remote-debugging-port=9222 --user-data-dir=D:/chrome/datatemp"
+                },
+                {
+                    "title": "http://localhost:9222/json"
+                }
+            ]
         }
     ],
     "Info": {
