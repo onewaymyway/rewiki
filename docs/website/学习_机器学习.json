@@ -139,6 +139,10 @@
                 {
                     "title": "tf-gqn",
                     "href": "https://github.com/ogroth/tf-gqn"
+                },
+                {
+                    "title": "vid2vid",
+                    "href": "https://github.com/NVIDIA/vid2vid"
                 }
             ]
         },
