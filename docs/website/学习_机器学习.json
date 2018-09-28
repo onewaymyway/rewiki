@@ -48,6 +48,10 @@
                     "href": "https://js.tensorflow.org/"
                 },
                 {
+                    "title": "tensorflow.doc",
+                    "href": "https://tensorflow.google.cn/get_started/custom_estimators"
+                },
+                {
                     "title": "TensorFlow-Book",
                     "href": "https://github.com/BinRoot/TensorFlow-Book"
                 },
