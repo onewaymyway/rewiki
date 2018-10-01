@@ -30,7 +30,7 @@ package view
 		{
 			curVersion = Math.random();
 		}
-		public static var basePath:String = "http://orzooo.com/website/";
+		public static var basePath:String = "https://orzooo.com/website/";
 		public static var baseEditPath:String = "https://github.com/onewaymyway/rewiki/blob/master/docs/website/";
 		public function loadWikiPage(pagePath:String):void
 		{
