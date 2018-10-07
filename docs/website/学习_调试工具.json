@@ -54,6 +54,10 @@
                 {
                     "title": "uirecorder",
                     "href": "https://github.com/alibaba/uirecorder/blob/master/README_zh-cn.md"
+                },
+                {
+                    "title": "源映射(Source Map)详解",
+                    "href": "https://www.cnblogs.com/xuld/p/5882677.html"
                 }
             ]
         },
