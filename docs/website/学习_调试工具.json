@@ -58,6 +58,10 @@
                 {
                     "title": "源映射(Source Map)详解",
                     "href": "https://www.cnblogs.com/xuld/p/5882677.html"
+                },
+                {
+                    "title": "Electron-doc 中文",
+                    "href": "https://wizardforcel.gitbooks.io/electron-doc/content/api/web-contents.html"
                 }
             ]
         },
