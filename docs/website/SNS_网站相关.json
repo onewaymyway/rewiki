@@ -18,6 +18,10 @@
                 {
                     "title": "文件被数字签名策略拒绝",
                     "href": "http://www.cnblogs.com/walkingboy/archive/2008/04/27/WM6_SDK_Install_Digital_Signature.html"
+                },
+                {
+                    "title": "awesome-selfhosted",
+                    "href": "https://github.com/Kickball/awesome-selfhosted"
                 }
             ]
         }
