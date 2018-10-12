@@ -60,6 +60,10 @@
                 {
                     "title": "cnnic",
                     "href": "http://www.cnnic.cn/"
+                },
+                {
+                    "title": "awesome-public-datasets",
+                    "href": "https://github.com/awesomedata/awesome-public-datasets"
                 }
             ]
         },
