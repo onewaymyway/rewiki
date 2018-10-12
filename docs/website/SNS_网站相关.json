@@ -22,6 +22,10 @@
                 {
                     "title": "awesome-selfhosted",
                     "href": "https://github.com/Kickball/awesome-selfhosted"
+                },
+                {
+                    "title": "awesome-electron",
+                    "href": "https://github.com/sindresorhus/awesome-electron"
                 }
             ]
         }
