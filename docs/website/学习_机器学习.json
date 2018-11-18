@@ -102,6 +102,10 @@
                 {
                     "title": "really-awesome-gan",
                     "href": "https://github.com/nightrome/really-awesome-gan"
+                },
+                {
+                    "title": "图解Tensorflow源码",
+                    "href": "http://www.cnblogs.com/yao62995/p/5773578.html"
                 }
             ]
         },
