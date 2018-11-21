@@ -96,6 +96,10 @@
                     "href": "https://github.com/pfnet/PaintsChainer"
                 },
                 {
+                    "title": "arbitrary-image-stylization-tfjs",
+                    "href": "https://github.com/reiinakano/arbitrary-image-stylization-tfjs"
+                },
+                {
                     "title": "ganlab",
                     "href": "https://poloclub.github.io/ganlab/"
                 },
