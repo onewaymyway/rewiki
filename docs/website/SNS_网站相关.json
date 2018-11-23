@@ -34,6 +34,10 @@
                 {
                     "title": "freessl",
                     "href": "https://freessl.cn/"
+                },
+                {
+                    "title": "用 Python 搭建一个简易的 WebServer",
+                    "href": "https://zhuanlan.zhihu.com/p/32136384"
                 }
             ]
         }
