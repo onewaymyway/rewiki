@@ -337,6 +337,15 @@
             ]
         },
         {
+            "title": "NLP",
+            "child": [
+                {
+                    "title": "gluon-nlp",
+                    "href": "https://github.com/dmlc/gluon-nlp"
+                }
+            ]
+        },
+        {
             "title": "业界动态",
             "child": [
                 {
