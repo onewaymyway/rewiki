@@ -114,6 +114,10 @@
                 {
                     "title": "neural-network-zoo",
                     "href": "http://www.asimovinstitute.org/neural-network-zoo/"
+                },
+                {
+                    "title": "GANDissect",
+                    "href": "https://github.com/CSAILVision/GANDissect"
                 }
             ]
         },
