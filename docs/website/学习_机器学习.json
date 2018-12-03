@@ -362,6 +362,10 @@
                 {
                     "title": "从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史",
                     "href": "https://zhuanlan.zhihu.com/p/49271699"
+                },
+                {
+                    "title": "结巴分词",
+                    "href": "https://github.com/fxsjy/jieba"
                 }
             ]
         },
