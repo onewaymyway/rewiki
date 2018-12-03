@@ -366,6 +366,10 @@
                 {
                     "title": "结巴分词",
                     "href": "https://github.com/fxsjy/jieba"
+                },
+                {
+                    "title": "THULAC-Python",
+                    "href": "https://github.com/thunlp/THULAC-Python"
                 }
             ]
         },
