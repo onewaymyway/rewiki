@@ -171,6 +171,10 @@
                 {
                     "title": "vid2vid",
                     "href": "https://github.com/NVIDIA/vid2vid"
+                },
+                {
+                    "title": "AI-Blocks",
+                    "href": "https://github.com/MrNothing/AI-Blocks"
                 }
             ]
         },
