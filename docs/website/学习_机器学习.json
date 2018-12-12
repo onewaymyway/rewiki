@@ -183,6 +183,10 @@
                 {
                     "title": "sketchKeras",
                     "href": "https://github.com/lllyasviel/sketchKeras"
+                },
+                {
+                    "title": "TwinGAN",
+                    "href": "https://github.com/jerryli27/TwinGAN"
                 }
             ]
         },
