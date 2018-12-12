@@ -179,6 +179,10 @@
                 {
                     "title": "AI-Blocks",
                     "href": "https://github.com/MrNothing/AI-Blocks"
+                },
+                {
+                    "title": "sketchKeras",
+                    "href": "https://github.com/lllyasviel/sketchKeras"
                 }
             ]
         },
