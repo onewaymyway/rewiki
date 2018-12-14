@@ -19,6 +19,7 @@ package
 		{
 			Laya.init(1000, 900);
 			Laya.stage.scaleMode = Stage.SCALE_FULL;
+			Laya.stage.screenMode = Stage.SCREEN_HORIZONTAL;
 			
 			var loads:Array;
 			loads = [];
