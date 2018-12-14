@@ -40,6 +40,7 @@ package
 			var container:Sprite;
 			if (Browser.pixelRatio > 1)
 			{
+				scaleRate = Browser.pixelRatio;
 				var box:Box;
 				box = new Box();
 				container = box;

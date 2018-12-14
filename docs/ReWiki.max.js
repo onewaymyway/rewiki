@@ -458,6 +458,7 @@ var Laya=window.Laya=(function(window,document){
 		__proto.start=function(){
 			var container;
 			if (Browser.pixelRatio > 1){
+				ReWiki.scaleRate=Browser.pixelRatio;
 				var box;
 				box=new Box();
 				container=box;
