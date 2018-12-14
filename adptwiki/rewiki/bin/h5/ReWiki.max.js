@@ -27360,7 +27360,7 @@ var Laya=window.Laya=(function(window,document){
 			this.groupPanelNav=new GroupPanel();
 			this.groupPanelNav.top=10;
 			this.groupPanelNav.bottom=10;
-			this.groupPanelNav.width=300;
+			this.groupPanelNav.width=200;
 			this.addChild(this.groupPanelNav);
 			this.groupPanelContent=new GroupPanel();
 			this.groupPanelContent.top=10;

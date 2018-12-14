@@ -48,7 +48,7 @@ package view
 			
 			groupPanelNav.top = 10;
 			groupPanelNav.bottom = 10;
-			groupPanelNav.width = 300;
+			groupPanelNav.width = 200;
 			
 			addChild(groupPanelNav);
 			
