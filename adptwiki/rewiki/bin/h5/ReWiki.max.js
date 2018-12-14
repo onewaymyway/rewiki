@@ -27365,7 +27365,7 @@ var Laya=window.Laya=(function(window,document){
 			this.groupPanelContent=new GroupPanel();
 			this.groupPanelContent.top=10;
 			this.groupPanelContent.bottom=10;
-			this.groupPanelContent.left=350;
+			this.groupPanelContent.left=this.groupPanelNav.width;
 			this.groupPanelContent.right=10;
 			this.addChild(this.groupPanelContent);
 			this.editBtn=new Button();

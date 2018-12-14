@@ -56,7 +56,7 @@ package view
 			
 			groupPanelContent.top = 10;
 			groupPanelContent.bottom = 10;
-			groupPanelContent.left = 350;
+			groupPanelContent.left = groupPanelNav.width;
 			groupPanelContent.right = 10;
 			
 			addChild(groupPanelContent);
