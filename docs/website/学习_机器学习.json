@@ -386,6 +386,10 @@
                 {
                     "title": "THULAC-Python",
                     "href": "https://github.com/thunlp/THULAC-Python"
+                },
+                {
+                    "title": "starspace",
+                    "href": "https://github.com/facebookresearch/starspace"
                 }
             ]
         },
