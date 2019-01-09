@@ -410,6 +410,10 @@
                 {
                     "title": "funNLP",
                     "href": "https://github.com/fighting41love/funNLP"
+                },
+                {
+                    "title": "PKUSeg-python",
+                    "href": "https://github.com/lancopku/PKUSeg-python"
                 }
             ]
         },
