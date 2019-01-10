@@ -49,7 +49,12 @@
         },
         {
             "title": "svn清理\nsqlite3.exe wc.db \"select * from work_queue\"\nsqlite3.exe wc.db \"delete from work_queue\"\nsqlite3.exe wc.db \"select * from work_queue\"\npause",
-            "child": []
+            "child": [
+                {
+                    "title": "Python开发SVN批量提交命令脚本",
+                    "href": "https://www.cnblogs.com/136asdxxl/p/7410947.html"
+                }
+            ]
         }
     ],
     "Info": {
