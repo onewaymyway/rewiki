@@ -434,6 +434,10 @@
                 {
                     "title": "爬取百度百科中文页面，抽取三元组信息，构建中文知识图谱",
                     "href": "https://github.com/lixiang0/WEB_KG"
+                },
+                {
+                    "title": "cnschema.org",
+                    "href": "http://cnschema.org/"
                 }
             ]
         },
