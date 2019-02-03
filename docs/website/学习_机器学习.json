@@ -345,7 +345,11 @@
                 {
                     "title": "Attention is all you need模型笔记",
                     "href": "https://zhuanlan.zhihu.com/p/39034683"
-                },
+                ,
+                {
+                    "title": "BERT大火却不懂Transformer？读这一篇就够了",
+                    "href": "https://zhuanlan.zhihu.com/p/54356280"
+                }},
                 {
                     "title": "一文读懂什么是变分自编码器",
                     "href": "https://cloud.tencent.com/developer/article/1096650"
