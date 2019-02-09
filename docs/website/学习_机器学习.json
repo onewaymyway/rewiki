@@ -464,6 +464,10 @@
 				{
 					"title": "openkg",
 					"href": "http://www.openkg.cn/"
+				},
+				{
+					"title": "知识图谱—RDF、RDFS、OWL",
+					"href": "https://blog.csdn.net/m0_37565948/article/details/81568054"
 				}
 			]
 		},
