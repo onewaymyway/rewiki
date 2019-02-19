@@ -406,6 +406,10 @@
 					"href": "https://github.com/thunlp/THULAC-Python"
 				},
 				{
+					"title": "HanLP",
+					"href": "https://github.com/hankcs/HanLP"
+				},
+				{
 					"title": "starspace",
 					"href": "https://github.com/facebookresearch/starspace"
 				},
