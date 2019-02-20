@@ -414,6 +414,10 @@
 					"href": "http://www.hankcs.com/"
 				},
 				{
+					"title": "基于神经网络的高性能依存句法分析器",
+					"href": "http://www.hankcs.com/nlp/parsing/neural-network-based-dependency-parser.html"
+				},
+				{
 					"title": "starspace",
 					"href": "https://github.com/facebookresearch/starspace"
 				},
