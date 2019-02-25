@@ -418,6 +418,10 @@
 					"href": "http://www.hankcs.com/nlp/parsing/neural-network-based-dependency-parser.html"
 				},
 				{
+					"title": "SemEval-2016",
+					"href": "https://github.com/HIT-SCIR/SemEval-2016"
+				},
+				{
 					"title": "starspace",
 					"href": "https://github.com/facebookresearch/starspace"
 				},
