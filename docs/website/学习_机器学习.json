@@ -438,6 +438,10 @@
 					"href": "http://www.hankcs.com/nlp/corpus/chinese-treebank.html"
 				},
 				{
+					"title": "ltp-cloud",
+					"href": "http://www.ltp-cloud.com/"
+				},
+				{
 					"title": "starspace",
 					"href": "https://github.com/facebookresearch/starspace"
 				},
