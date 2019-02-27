@@ -430,6 +430,10 @@
 					"href": "https://github.com/HIT-SCIR/SemEval-2016"
 				},
 				{
+					"title": "汉语树库",
+					"href": "http://www.hankcs.com/nlp/corpus/chinese-treebank.html"
+				},
+				{
 					"title": "starspace",
 					"href": "https://github.com/facebookresearch/starspace"
 				},
