@@ -81,6 +81,9 @@
                 },
                 {
                     "title": "http://localhost:9222/json"
+                },
+                {
+                    "title": "chrome://flags/#enable-devtools-experiments"
                 }
             ]
         }
