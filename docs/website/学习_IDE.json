@@ -34,6 +34,18 @@
                 {
                     "title": "编程猫",
                     "href": "https://ide.codemao.cn/"
+                },
+                {
+                    "title": "blockly",
+                    "href": "https://github.com/google/blockly"
+                },
+                {
+                    "title": "scratch-blocks",
+                    "href": "https://github.com/LLK/scratch-blocks"
+                },
+                {
+                    "title": "scratch-flash",
+                    "href": "https://github.com/LLK/scratch-flash"
                 }
             ]
         }
