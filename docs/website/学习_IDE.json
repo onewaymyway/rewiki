@@ -46,6 +46,10 @@
                 {
                     "title": "scratch-flash",
                     "href": "https://github.com/LLK/scratch-flash"
+                },
+                {
+                    "title": "main.js，打开在this.app.once('ready'上面加一行:this.app.commandLine.appendSwitch("ignore-gpu-blacklist");",
+                    "href": "https://ask.layabox.com/question/41201"
                 }
             ]
         }
