@@ -48,7 +48,7 @@
                     "href": "https://github.com/LLK/scratch-flash"
                 },
                 {
-                    "title": 'this.app.commandLine.appendSwitch("ignore-gpu-blacklist")',
+                    "title": "this.app.commandLine.appendSwitch('ignore-gpu-blacklist')",
                     "href": "https://ask.layabox.com/question/41201"
                 }
             ]
