@@ -1,0 +1,17 @@
+{
+    "Content": [
+        {
+            "title": "游戏",
+            "child": [
+                {
+                    "title": "weavesilk",
+                    "href": "http://weavesilk.com/"
+                }
+            ]
+        }
+    ],
+    "Info": {
+        "title": "好玩的",
+        "group": "生活"
+    }
+}
