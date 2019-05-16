@@ -544,6 +544,10 @@
 				{
 					"title": "自然语言处理系列视频",
 					"href": "https://www.bilibili.com/video/av50469303/"
+				},
+				{
+					"title": "conceptnet5",
+					"href": "https://github.com/commonsense/conceptnet5"
 				}
 			]
 		},
