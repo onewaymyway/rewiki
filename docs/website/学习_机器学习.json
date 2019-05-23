@@ -548,6 +548,10 @@
 				{
 					"title": "conceptnet5",
 					"href": "https://github.com/commonsense/conceptnet5"
+				},
+				{
+					"title": "nlp-tutorial",
+					"href": "https://github.com/graykode/nlp-tutorial"
 				}
 			]
 		},
