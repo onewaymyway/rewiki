@@ -58,6 +58,10 @@
                 {
                     "title": "sysinternals",
                     "href": "https://technet.microsoft.com/en-us/sysinternals/bb545021"
+                },
+                {
+                    "title": "SAM通讯协议",
+                    "href": "https://blog.csdn.net/zhangbijun1230/article/details/85242964"
                 }
             ]
         },
