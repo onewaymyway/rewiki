@@ -552,6 +552,10 @@
 				{
 					"title": "nlp-tutorial",
 					"href": "https://github.com/graykode/nlp-tutorial"
+				},
+				{
+					"title": "conll",
+					"href": "https://www.conll.org/"
 				}
 			]
 		},
