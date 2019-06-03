@@ -560,6 +560,10 @@
 				{
 					"title": "pyltp在windows下的编译安装",
 					"href": "https://mlln.cn/2018/01/31/pyltp%E5%9C%A8windows%E4%B8%8B%E7%9A%84%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85/"
+				},
+				{
+					"title": "pyltp文档",
+					"href": "https://pyltp.readthedocs.io/zh_CN/latest/"
 				}
 			]
 		},
