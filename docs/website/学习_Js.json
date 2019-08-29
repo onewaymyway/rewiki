@@ -197,6 +197,10 @@
                 {
                     "title": "WebGL 教程",
                     "href": "https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API/Tutorial"
+                },
+                {
+                    "title": "gpu.js",
+                    "href": "https://github.com/gpujs/gpu.js"
                 }
             ]
         },
