@@ -166,6 +166,10 @@
             "title": "常去的网站",
             "child": [
                 {
+                    "title": "google",
+                    "href": "http://google.com/"
+                },
+                {
                     "title": "百度",
                     "href": "http://baidu.com/"
                 },
@@ -220,10 +224,6 @@
                 {
                     "title": "声音胶囊",
                     "href": "http://voicefrom.me/index.htm"
-                },
-                {
-                    "title": "google",
-                    "href": "http://www.ggooo.net/"
                 },
                 {
                     "title": "sec",
