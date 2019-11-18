@@ -568,6 +568,10 @@
 				{
 					"title": "pyltp文档",
 					"href": "https://pyltp.readthedocs.io/zh_CN/latest/"
+				},
+				{
+					"title": "OpenHowNet",
+					"href": "https://github.com/thunlp/OpenHowNet"
 				}
 			]
 		},
