@@ -74,6 +74,10 @@
                 {
                     "title": "wxopen",
                     "href": "https://mp.weixin.qq.com/debug/wxadoc/dev/"
+                },
+                {
+                    "title": "reactjs",
+                    "href": "https://zh-hans.reactjs.org/"
                 }
             ]
         },
