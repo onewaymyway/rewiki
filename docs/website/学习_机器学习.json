@@ -212,6 +212,10 @@
 				{
 					"title": "TwinGAN",
 					"href": "https://github.com/jerryli27/TwinGAN"
+				},
+				{
+					"title": "style2paints",
+					"href": "https://github.com/lllyasviel/style2paints"
 				}
 			]
 		},
