@@ -62,6 +62,18 @@
                 {
                     "title": "wikihow",
                     "href": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5"
+                },
+                {
+                    "title": "ToolsInOne-node",
+                    "href": "https://onewaymyway.github.io/tempres/packs/node-v0.11.0-x86.msi"
+                },
+                {
+                    "title": "ToolsInOne-python",
+                    "href": "https://onewaymyway.github.io/tempres/packs/python-3.4.3.msi"
+                },
+                {
+                    "title": "ToolsInOne-TortoiseSVN",
+                    "href": "https://onewaymyway.github.io/tempres/packs/TortoiseSVN-1.8.12.26645-win32-svn-1.8.14.msi"
                 }
             ]
         }
