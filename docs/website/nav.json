@@ -185,9 +185,13 @@
                     "title": "AIStudio",
                     "href": "https://aistudio.baidu.com/aistudio/index"
                 },
- {
+                {
                     "title": "PaddleHub",
                     "href": "https://github.com/paddlepaddle/paddlehub/wiki"
+                },
+                {
+                    "title": "PGL",
+                    "href": "https://github.com/PaddlePaddle/PGL"
                 },
                 {
                     "title": "摩托车",
