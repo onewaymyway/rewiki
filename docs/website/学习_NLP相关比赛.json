@@ -1,6 +1,6 @@
 {
 	"Content": [{
-			"title": "导航",
+			"title": "平台",
 			"child": [{
 					"title": "aistudio",
 					"href": "https://aistudio.baidu.com/aistudio/competition"
@@ -8,6 +8,18 @@
 				{
 					"title": "biendata",
 					"href": "https://www.biendata.com/competition/"
+				}
+			]
+		},
+		{
+			"title": "比赛",
+			"child": [{
+					"title": "CCKS 2020: 面向中文短文本的实体链指任务",
+					"href": "https://www.biendata.com/competition/ccks_2020_el/"
+				},
+				{
+					"title": "2020语言与智能技术竞赛：事件抽取任务",
+					"href": "https://aistudio.baidu.com/aistudio/competition/detail/32"
 				}
 			]
 		}
