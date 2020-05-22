@@ -1,0 +1,19 @@
+{
+	"Content": [{
+			"title": "导航",
+			"child": [{
+					"title": "aistudio",
+					"href": "https://aistudio.baidu.com/aistudio/competition"
+				},
+				{
+					"title": "biendata",
+					"href": "https://www.biendata.com/competition/"
+				}
+			]
+		}
+	],
+	"Info": {
+		"title": "NLP相关比赛",
+		"group": "学习"
+	}
+}
