@@ -13,13 +13,22 @@
 		},
 		{
 			"title": "比赛",
-			"child": [{
+			"child": [
+				{
 					"title": "CCKS 2020: 面向中文短文本的实体链指任务",
 					"href": "https://www.biendata.com/competition/ccks_2020_el/"
 				},
 				{
+					"title": "实体链指任务baseline",
+					"href": "https://github.com/PaddlePaddle/Research/tree/master/KG/DuEL_Baseline"
+				},
+				{
 					"title": "2020语言与智能技术竞赛：事件抽取任务",
 					"href": "https://aistudio.baidu.com/aistudio/competition/detail/32"
+				},
+				{
+					"title": "事件抽取任务baseline",
+					"href": "https://github.com/PaddlePaddle/Research/tree/master/KG/DuEE_baseline"
 				}
 			]
 		}
