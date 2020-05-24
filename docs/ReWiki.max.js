@@ -27340,7 +27340,7 @@ var Laya=window.Laya=(function(window,document){
 			Notice.listen("LoadPage",this,this.loadWikiPage);
 			Laya.loader.load(ReWikiView.basePath+"nav.json",new Handler(this,this.onNavDataLoaded),null,"json");
 			this.changeVersion();
-			this.loadWikiPage("学习_Js.json");
+			this.loadWikiPage("学习_机器学习.json");
 		}
 
 		__class(ReWikiView,'view.ReWikiView',_super);
