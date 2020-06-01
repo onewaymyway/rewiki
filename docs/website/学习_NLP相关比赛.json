@@ -49,6 +49,10 @@
 				{
 					"title": "百度aistudio事件抽取比赛总结——记一次使用MRC方式做事件抽取任务的尝试",
 					"href": "https://zhuanlan.zhihu.com/p/141237763"
+				},
+				{
+					"title": "机器阅读理解（看经典MRC模型与花式Attention）",
+					"href": "https://www.cnblogs.com/sandwichnlp/p/11811396.html"
 				}
 			]
 		}
