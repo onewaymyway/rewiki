@@ -12,7 +12,7 @@
 			]
 		},
 		{
-			"title": "比赛",
+			"title": "CCKS 2020: 面向中文短文本的实体链指任务",
 			"child": [
 				{
 					"title": "CCKS 2020: 面向中文短文本的实体链指任务",
@@ -37,7 +37,13 @@
 				{
 					"title": "多因子融合的实体识别与链指消歧",
 					"href": "https://cloud.tencent.com/developer/article/1491361"
-				},
+				}
+			]
+		},
+		{
+			"title": "2020语言与智能技术竞赛：事件抽取任务",
+			"child": [
+				
 				{
 					"title": "2020语言与智能技术竞赛：事件抽取任务",
 					"href": "https://aistudio.baidu.com/aistudio/competition/detail/32"
