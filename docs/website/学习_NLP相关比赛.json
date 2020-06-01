@@ -41,6 +41,10 @@
 				{
 					"title": "事件抽取任务baseline",
 					"href": "https://github.com/PaddlePaddle/Research/tree/master/KG/DuEE_baseline"
+				},
+				{
+					"title": "百度aistudio事件抽取比赛总结——记一次使用MRC方式做事件抽取任务的尝试",
+					"href": "https://zhuanlan.zhihu.com/p/141237763"
 				}
 			]
 		}
