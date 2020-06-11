@@ -216,6 +216,10 @@
 				{
 					"title": "style2paints",
 					"href": "https://github.com/lllyasviel/style2paints"
+				},
+				{
+					"title": "netron",
+					"href": "https://github.com/lutzroeder/netron"
 				}
 			]
 		},
