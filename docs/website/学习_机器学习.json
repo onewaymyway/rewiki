@@ -417,7 +417,12 @@
 		},
 		{
 			"title": "NLP",
-			"child": [{
+			"child": [
+				{
+					"title": "NLP-Conferences-Code",
+					"href": "https://github.com/yizhen20133868/NLP-Conferences-Code"
+				},
+				{
 					"title": "gluon-nlp",
 					"href": "https://github.com/dmlc/gluon-nlp"
 				},
