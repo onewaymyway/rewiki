@@ -83,6 +83,10 @@
 				{
 					"title": "机器阅读理解（看经典MRC模型与花式Attention）",
 					"href": "https://www.cnblogs.com/sandwichnlp/p/11811396.html"
+				},
+				{
+					"title": "ACL 2020 | 基于多级排序学习的层次化实体标注",
+					"href": "https://zhuanlan.zhihu.com/p/150122419"
 				}
 			]
 		}
