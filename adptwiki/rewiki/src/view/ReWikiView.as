@@ -5,6 +5,7 @@ package view
 	import laya.net.Loader;
 	import laya.ui.Button;
 	import laya.utils.Handler;
+	import laya.utils.Utils;
 	import msg.ReWikiMsg;
 	import tools.WebTools;
 	import ui.rewiki.ReWikiUI;
@@ -24,7 +25,12 @@ package view
 			Notice.listen(ReWikiMsg.LoadPage, this, loadWikiPage);
 			Laya.loader.load(basePath+"nav.json", new Handler(this, onNavDataLoaded), null, Loader.JSON);
 			changeVersion();
-			loadWikiPage("学习_Js.json");
+			var page:String;
+			page = "学习_机器学习.json";
+			var q:String;
+			q = Utils.getQueryString("page");
+			if (q) page = q;
+			loadWikiPage(page);
 		}
 		private function changeVersion():void
 		{
@@ -36,7 +42,15 @@ package view
 		{
 			_curUrl = pagePath;
 			var path:String;
-			path = basePath + pagePath+"?v="+curVersion;
+			path = basePath + pagePath + "?v=" + curVersion;
+			
+			var curPath:String;
+			curPath = window.location.href.split("?")[0];
+			curPath = curPath + "?page=" + pagePath;
+			if (window.history && window.history.replaceState)
+			{
+				window.history.replaceState("0", "ReWiki:" + pagePath, curPath);
+			}
 			Laya.loader.load(path, new Handler(this, onPageDataLoaded), null, Loader.JSON);
 		}
 		public var groupPanelContent:GroupPanel;

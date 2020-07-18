@@ -396,5 +396,15 @@ package laya.utils {
 			}
 			return true;
 		}
+		
+		public static function getQueryString(name:String):String 
+		{
+		   var reg:RegExp = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+		   var r = window.location.search.substr(1).match(reg);
+		   if(r != null) {
+				 return decodeURIComponent(r[2]);
+		   }
+		   return '';
+		}
 	}
 }
