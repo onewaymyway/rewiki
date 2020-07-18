@@ -89,6 +89,32 @@
 					"href": "https://zhuanlan.zhihu.com/p/150122419"
 				}
 			]
+		},
+		{
+			"title": "2020语言与智能技术竞赛：关系抽取任务",
+			"child": [
+				
+				{
+					"title": "2020语言与智能技术竞赛：关系抽取任务",
+					"href": "https://aistudio.baidu.com/aistudio/competition/detail/31"
+				},
+				{
+					"title": "关系抽取任务baseline",
+					"href": "https://github.com/PaddlePaddle/Research/tree/master/KG/DuIE_Baseline"
+				},
+				{
+					"title": "lic2020_baselines",
+					"href": "https://github.com/bojone/lic2020_baselines"
+				},
+				{
+					"title": "ACL 2020 | CASREL: 不受重叠三元组影响的关系抽取方法",
+					"href": "https://blog.csdn.net/u012325865/article/details/106774660"
+				},
+				{
+					"title": " 用bert4keras做三元组抽取",
+					"href": "https://spaces.ac.cn/archives/7161"
+				}
+			]
 		}
 	],
 	"Info": {
