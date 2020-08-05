@@ -34,6 +34,10 @@
                 {
                     "title": "树状数组",
                     "href": "https://www.cnblogs.com/xenny/p/9739600.html"
+                },
+                {
+                    "title": "时间复杂度为O(1)的抽样算法——别名采样（alias sample）",
+                    "href": "https://zhuanlan.zhihu.com/p/111885669"
                 }
             ]
         },
