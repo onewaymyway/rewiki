@@ -471,6 +471,14 @@
 					"href": "https://blog.csdn.net/qq_28031525/article/details/79187080"
 				},
 				{
+					"title": "Deep Biaffine Attention for Neural Dependency Parsing",
+					"href": "https://cloud.tencent.com/developer/article/1457048"
+				},
+				{
+					"title": "DDParser",
+					"href": "https://github.com/baidu/DDParser/tree/master/ddparser"
+				},
+				{
 					"title": "ON-LSTM：用有序神经元表达层次结构",
 					"href": "https://kexue.fm/archives/6621"
 				},
