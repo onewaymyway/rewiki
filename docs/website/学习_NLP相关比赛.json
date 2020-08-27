@@ -24,6 +24,15 @@
 			]
 		},
 		{
+			"title": "工具",
+			"child": [
+				{
+					"title": "nlpcda",
+					"href": "https://github.com/425776024/nlpcda"
+				}
+			]
+		},
+		{
 			"title": "CCKS 2020: 面向中文短文本的实体链指任务",
 			"child": [
 				{
