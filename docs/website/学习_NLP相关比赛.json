@@ -120,8 +120,12 @@
 					"href": "https://blog.csdn.net/u012325865/article/details/106774660"
 				},
 				{
-					"title": " 用bert4keras做三元组抽取",
+					"title": "用bert4keras做三元组抽取",
 					"href": "https://spaces.ac.cn/archives/7161"
+				},
+				{
+					"title": "nlp中的实体关系抽取方法总结",
+					"href": "https://zhuanlan.zhihu.com/p/77868938"
 				}
 			]
 		}
