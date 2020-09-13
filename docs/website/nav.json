@@ -194,6 +194,10 @@
                     "href": "https://github.com/paddlepaddle/paddlehub/wiki"
                 },
                 {
+                    "title": "PALM",
+                    "href": "https://github.com/PaddlePaddle/PALM"
+                },
+                {
                     "title": "PGL",
                     "href": "https://github.com/PaddlePaddle/PGL"
                 },
