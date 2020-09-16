@@ -136,6 +136,16 @@
 					"href": "https://zhuanlan.zhihu.com/p/189831468"
 				}
 			]
+		},
+		{
+			"title": "其他NLP相关收藏",
+			"child": [
+				
+				{
+					"title": "ACL2020：半监督文本分类模型MixText，智取标记数据稀缺问题",
+					"href": "https://zhuanlan.zhihu.com/p/248520711"
+				}
+			]
 		}
 	],
 	"Info": {
