@@ -144,6 +144,10 @@
 				{
 					"title": "ACL2020：半监督文本分类模型MixText，智取标记数据稀缺问题",
 					"href": "https://zhuanlan.zhihu.com/p/248520711"
+				},
+				{
+					"title": "标注样本少怎么办？「文本增强+半监督学习」总结（从PseudoLabel到UDA/FixMatch）",
+					"href": "https://zhuanlan.zhihu.com/p/146777068"
 				}
 			]
 		}
