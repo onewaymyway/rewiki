@@ -148,6 +148,10 @@
 				{
 					"title": "标注样本少怎么办？「文本增强+半监督学习」总结（从PseudoLabel到UDA/FixMatch）",
 					"href": "https://zhuanlan.zhihu.com/p/146777068"
+				},
+				{
+					"title": "如何解决NLP分类任务的11个关键问题：类别不平衡&低耗时计算&小样本&鲁棒性&测试检验&长文本分类",
+					"href": "https://zhuanlan.zhihu.com/p/183852900"
 				}
 			]
 		}
