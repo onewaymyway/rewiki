@@ -33,6 +33,10 @@
 					"title": "arxiv.org",
 					"href": "https://arxiv.org/list/cs/recent"
 				},
+				 {
+					"title": "arxiv-sanity",
+					"href": "http://www.arxiv-sanity.com/"
+				},
 				{
 					"title": "aminer.org",
 					"href": "http://www.aminer.org/"
