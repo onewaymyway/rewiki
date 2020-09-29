@@ -172,6 +172,10 @@
 				{
 					"title": "几种噪声标签识别算法简介",
 					"href": "https://zhuanlan.zhihu.com/p/104961266"
+				},
+				{
+					"title": "注数据存在错误怎么办？MIT&Google提出用置信学习找出错误标注（附开源实现）",
+					"href": "https://zhuanlan.zhihu.com/p/146557232"
 				}
 			]
 		}
