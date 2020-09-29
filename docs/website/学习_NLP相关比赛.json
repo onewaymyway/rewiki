@@ -28,6 +28,10 @@
 				{
 					"title": "NLPCC 2020",
 					"href": "http://tcci.ccf.org.cn/conference/2020/taskdata.php"
+				},
+				{
+					"title": "SemEval2021",
+					"href": "https://semeval.github.io/SemEval2021/tasks.html"
 				}
 			]
 		},
