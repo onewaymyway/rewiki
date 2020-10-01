@@ -154,6 +154,19 @@
 			]
 		},
 		{
+			"title": "对话相关",
+			"child": [
+				{
+					"title": "ACL 2020论文分享 | 新任务：融合多个对话类型的对话式推荐",
+					"href": "https://www.bilibili.com/read/cv6674221/"
+				},
+				{
+					"title": "千言：多技能对话",
+					"href": "https://www.datafountain.cn/competitions/470"
+				}
+			]
+		},
+		{
 			"title": "其他NLP相关收藏",
 			"child": [
 				
