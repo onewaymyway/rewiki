@@ -183,6 +183,27 @@
 			]
 		},
 		{
+			"title": "自动解应用题相关",
+			"child": [
+				{
+					"title": "CCF BDCI 小学数学应用题自动解题",
+					"href": "https://www.datafountain.cn/competitions/467"
+				},
+				{
+					"title": "AAAI 2019 阿凡题发力智能答题，刷新标准测试集准确率",
+					"href": "https://cloud.tencent.com/developer/news/395394"
+				},
+				{
+					"title": "math_seq2tree",
+					"href": "https://github.com/ShichaoSun/math_seq2tree"
+				},
+				{
+					"title": "E2EMathSolver",
+					"href": "https://github.com/MiuLab/E2EMathSolver"
+				}
+			]
+		},
+		{
 			"title": "其他NLP相关收藏",
 			"child": [
 				
