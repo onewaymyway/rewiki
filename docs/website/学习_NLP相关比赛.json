@@ -212,6 +212,10 @@
 				{
 					"title": "Graph2Tree",
 					"href": "https://github.com/2003pro/Graph2Tree"
+				},
+				{
+					"title": "Graph-to-Tree Learning for Solving Math Word Problems",
+					"href": "https://www.aclweb.org/anthology/2020.acl-main.362/"
 				}
 			]
 		},
