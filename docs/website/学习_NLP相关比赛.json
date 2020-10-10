@@ -204,6 +204,10 @@
 				{
 					"title": "E2EMathSolver",
 					"href": "https://github.com/MiuLab/E2EMathSolver"
+				},
+				{
+					"title": "math_graph2tree",
+					"href": "https://github.com/kiss2smiles/math_graph2tree"
 				}
 			]
 		},
