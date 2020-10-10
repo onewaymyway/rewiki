@@ -208,6 +208,10 @@
 				{
 					"title": "math_graph2tree",
 					"href": "https://github.com/kiss2smiles/math_graph2tree"
+				},
+				{
+					"title": "Graph2Tree",
+					"href": "https://github.com/2003pro/Graph2Tree"
 				}
 			]
 		},
