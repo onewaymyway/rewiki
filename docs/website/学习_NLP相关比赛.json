@@ -210,6 +210,10 @@
 					"href": "https://github.com/MiuLab/E2EMathSolver"
 				},
 				{
+					"title": "math_graph2tree",
+					"href": "https://github.com/kiss2smiles/math_graph2tree"
+				},
+				{
 					"title": "2020.ACL.Graph2Tree",
 					"href": "https://github.com/2003pro/Graph2Tree"
 				},
