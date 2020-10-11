@@ -210,13 +210,21 @@
 					"href": "https://github.com/MiuLab/E2EMathSolver"
 				},
 				{
-					"title": "Graph2Tree",
+					"title": "2020.ACL.Graph2Tree",
 					"href": "https://github.com/2003pro/Graph2Tree"
 				},
 				{
 					"title": "Graph-to-Tree Learning for Solving Math Word Problems",
 					"href": "https://www.aclweb.org/anthology/2020.acl-main.362/"
-				},		
+				},
+				{
+					"title": "2020.EMNLP.Graph2Tree",
+					"href": "https://github.com/IBM/Graph2Tree"
+				},
+				{
+					"title": "Graph-to-Tree Neural Networks for Learning Structured Input-Output Translation with Applications to Semantic Parsing and Math Word Problem",
+					"href": "https://arxiv.org/abs/2004.13781"
+				},
 				{
 					"title": "Text Generation from Knowledge Graphs with Graph Transformers",
 					"href": "https://zhuanlan.zhihu.com/p/104466650"
