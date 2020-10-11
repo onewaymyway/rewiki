@@ -202,12 +202,12 @@
 					"href": "https://github.com/ShichaoSun/math_seq2tree"
 				},
 				{
-					"title": "E2EMathSolver",
-					"href": "https://github.com/MiuLab/E2EMathSolver"
+					"title": "A Goal-Driven Tree-Structured Neural Model for Math Word Problems",
+					"href": "https://www.ijcai.org/Proceedings/2019/736"
 				},
 				{
-					"title": "math_graph2tree",
-					"href": "https://github.com/kiss2smiles/math_graph2tree"
+					"title": "E2EMathSolver",
+					"href": "https://github.com/MiuLab/E2EMathSolver"
 				},
 				{
 					"title": "Graph2Tree",
@@ -216,11 +216,7 @@
 				{
 					"title": "Graph-to-Tree Learning for Solving Math Word Problems",
 					"href": "https://www.aclweb.org/anthology/2020.acl-main.362/"
-				},
-				{
-					"title": "A Goal-Driven Tree-Structured Neural Model for Math Word Problems",
-					"href": "https://www.ijcai.org/Proceedings/2019/736"
-				},
+				},		
 				{
 					"title": "Text Generation from Knowledge Graphs with Graph Transformers",
 					"href": "https://zhuanlan.zhihu.com/p/104466650"
