@@ -236,6 +236,10 @@
 				{
 					"title": "GraphWriter",
 					"href": "https://github.com/rikdz/GraphWriter"
+				},
+				{
+					"title": "Graph-Based-Geometry-Solver",
+					"href": "https://github.com/PAN-YI-HSUAN/Graph-Based-Geometry-Solver"
 				}
 			]
 		},
