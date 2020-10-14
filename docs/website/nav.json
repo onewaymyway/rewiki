@@ -182,6 +182,10 @@
                     "href": "http://weibo.com/"
                 },
                 {
+                    "title": "colab",
+                    "href": "https://colab.research.google.com/"
+                },
+                {
                     "title": "kaggle",
                     "href": "https://www.kaggle.com/"
                 },
