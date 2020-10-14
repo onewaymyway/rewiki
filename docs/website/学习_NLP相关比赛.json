@@ -244,6 +244,10 @@
 				{
 					"title": "numnet_plus",
 					"href": "https://github.com/llamazing/numnet_plus"
+				},
+				{
+					"title": "NumNet: Machine Reading Comprehension with Numerical Reasoning",
+					"href": "https://arxiv.org/abs/1910.06701"
 				}
 			]
 		},
