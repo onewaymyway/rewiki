@@ -240,6 +240,10 @@
 				{
 					"title": "Graph-Based-Geometry-Solver",
 					"href": "https://github.com/PAN-YI-HSUAN/Graph-Based-Geometry-Solver"
+				},
+				{
+					"title": "numnet_plus",
+					"href": "https://github.com/llamazing/numnet_plus"
 				}
 			]
 		},
