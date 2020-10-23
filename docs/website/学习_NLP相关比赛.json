@@ -302,6 +302,10 @@
 				{
 					"title": "注数据存在错误怎么办？MIT&Google提出用置信学习找出错误标注（附开源实现）",
 					"href": "https://zhuanlan.zhihu.com/p/146557232"
+				},
+				{
+					"title": "泛化性乱弹：从随机噪声、梯度惩罚到虚拟对抗训练",
+					"href": "https://spaces.ac.cn/archives/7466"
 				}
 			]
 		}
