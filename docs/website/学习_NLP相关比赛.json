@@ -112,6 +112,10 @@
 				{
 					"title": "ACL 2020 | 基于多级排序学习的层次化实体标注",
 					"href": "https://zhuanlan.zhihu.com/p/150122419"
+				},
+				{
+					"title": "2020 科大讯飞事件抽取挑战赛 top1",
+					"href": "https://github.com/WuHuRestaurant/xf_event_extraction2020Top1"
 				}
 			]
 		},
