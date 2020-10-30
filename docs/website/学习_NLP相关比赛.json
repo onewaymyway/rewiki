@@ -314,6 +314,10 @@
 				{
 					"title": "泛化性乱弹：从随机噪声、梯度惩罚到虚拟对抗训练",
 					"href": "https://spaces.ac.cn/archives/7466"
+				},
+				{
+					"title": "NLP硬核入门-PointerNet和CopyNet",
+					"href": "https://zhuanlan.zhihu.com/p/73590690"
 				}
 			]
 		}
