@@ -292,6 +292,10 @@
 				{
 					"title": "ape210k_baseline",
 					"href": "https://github.com/bojone/ape210k_baseline"
+				},
+				{
+					"title": "Text-to-SQL论文阅读笔记：IRNet",
+					"href": "https://zhuanlan.zhihu.com/p/136877103"
 				}
 			]
 		},
