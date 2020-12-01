@@ -312,6 +312,15 @@
 			]
 		},
 		{
+			"title": "多模态",
+			"child": [
+				{
+					"title": "这可能是「多模态机器学习」最通俗易懂的介绍",
+					"href": "https://zhuanlan.zhihu.com/p/53511144"
+				}
+			]
+		},
+		{
 			"title": "其他NLP相关收藏",
 			"child": [
 				
