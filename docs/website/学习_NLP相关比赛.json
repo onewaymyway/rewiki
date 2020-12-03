@@ -312,7 +312,7 @@
 			]
 		},
 		{
-			"title": "多模态",
+			"title": "多模态与常识",
 			"child": [
 				{
 					"title": "这可能是「多模态机器学习」最通俗易懂的介绍",
@@ -353,6 +353,10 @@
 				{
 					"title": "一文读懂Faster RCNN",
 					"href": "https://zhuanlan.zhihu.com/p/31426458"
+				},
+				{
+					"title": "融合外部知识的常识问答",
+					"href": "https://mp.weixin.qq.com/s/DoUTjayibMmQYVd44ZarcQ"
 				}
 			]
 		},
