@@ -316,7 +316,7 @@
 			]
 		},
 		{
-			"title": "多模态与常识",
+			"title": "多模态与常识与推理",
 			"child": [
 				{
 					"title": "这可能是「多模态机器学习」最通俗易懂的介绍",
@@ -401,6 +401,10 @@
 				{
 					"title": "他们提出了一个大胆的猜想：GWT（深度学习）→通用人工智能",
 					"href": "https://mp.weixin.qq.com/s/HvrudajxTTM0wsED3i1nnQ"
+				},
+				{
+					"title": "【DFGN】用于多步推理问题的动态融合图网络",
+					"href": "https://zhuanlan.zhihu.com/p/83593591"
 				}
 			]
 		},
