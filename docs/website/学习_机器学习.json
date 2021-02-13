@@ -765,7 +765,12 @@
 			"child": [{
 				"title": "大脑发育与功能发展",
 				"href": "https://www.sohu.com/a/331410195_120005806"
-			}]
+				},
+				 {
+					"title": "大脑的发育进程，你知道多少？",
+					"href": "https://zhuanlan.zhihu.com/p/27138645"
+				}
+				 ]
 		},
 		{
 			"title": "业界动态",
