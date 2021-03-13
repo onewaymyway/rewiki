@@ -409,7 +409,7 @@
 			]
 		},
 		{
-			"title": "2020语言与智能技术竞赛：关系抽取任务",
+			"title": "神经架构搜索（NAS）相关",
 			"child": [
 				
 				{
@@ -420,6 +420,14 @@
 					"title": "一文详解神经网络结构搜索（NAS）",
 					"href": "https://zhuanlan.zhihu.com/p/73785074"
 				},
+				{
+					"title": "CVPR2021 NAS Track 1: Supernet Track",
+					"href": "https://aistudio.baidu.com/aistudio/competition/detail/64"
+				},
+				{
+					"title": "CVPR2021 NAS Track 2: Performance Prediction Track",
+					"href": "https://aistudio.baidu.com/aistudio/competition/detail/71"
+				}
 				
 			]
 		},
