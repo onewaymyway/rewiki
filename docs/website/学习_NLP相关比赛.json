@@ -409,6 +409,21 @@
 			]
 		},
 		{
+			"title": "2020语言与智能技术竞赛：关系抽取任务",
+			"child": [
+				
+				{
+					"title": "神经架构搜索(NAS)2020最新综述：挑战与解决方案",
+					"href": "https://zhuanlan.zhihu.com/p/146138419"
+				},
+				{
+					"title": "一文详解神经网络结构搜索（NAS）",
+					"href": "https://zhuanlan.zhihu.com/p/73785074"
+				},
+				
+			]
+		},
+		{
 			"title": "其他NLP相关收藏",
 			"child": [
 				
