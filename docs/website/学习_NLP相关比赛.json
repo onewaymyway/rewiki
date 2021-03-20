@@ -458,6 +458,10 @@
 				{
 					"title": "知识图谱推理问答：如何让机器像人类一样学会推理",
 					"href": "https://zhuanlan.zhihu.com/p/150182833"
+				},
+				{
+					"title": "kqa-pro",
+					"href": "http://thukeg.gitee.io/kqa-pro/"
 				}
 				
 			]
