@@ -162,6 +162,10 @@
 				{
 					"title": "基于倍图推理的文档级关系抽取",
 					"href": "https://zhuanlan.zhihu.com/p/336478773"
+				},
+				{
+					"title": "刘知远团队论文解读->Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention->基于关系层次注意力机制的关系抽取",
+					"href": "https://zhuanlan.zhihu.com/p/354924136"
 				}
 			]
 		},
