@@ -440,6 +440,21 @@
 			]
 		},
 		{
+			"title": "KBQA",
+			"child": [
+				
+				{
+					"title": "ComplexWebQuestion相关工作调研——KBQA领域所有被引文章解读",
+					"href": "https://zhuanlan.zhihu.com/p/339888492"
+				},
+				{
+					"title": "知识库问答的复杂问题研究回顾",
+					"href": "https://www.it610.com/article/1294759053762830336.htm"
+				}
+				
+			]
+		},
+		{
 			"title": "其他NLP相关收藏",
 			"child": [
 				
