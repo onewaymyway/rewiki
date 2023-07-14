@@ -91,6 +91,10 @@
                     "href": "@Page:学习.机器学习"
                 },
                 {
+                    "title": "AI_Collections",
+                    "href": "https://github.com/onewaymyway/ai_collections/blob/main/%E9%A2%84%E8%AE%AD%E7%BB%83"
+                },
+                {
                     "title": "NLP相关比赛",
                     "href": "@Page:学习.NLP相关比赛"
                 },
